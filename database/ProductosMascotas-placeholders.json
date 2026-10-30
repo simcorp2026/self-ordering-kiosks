@@ -1,0 +1,2687 @@
+{
+  "CategoryOne": [
+    {
+      "Id": 0,
+      "Name": "Perros"
+    },
+    {
+      "Id": 1,
+      "Name": "Gatos"
+    },
+    {
+      "Id": 2,
+      "Name": "Acuáticos"
+    },
+    {
+      "Id": 3,
+      "Name": "Aves"
+    },
+    {
+      "Id": 4,
+      "Name": "Reptiles y Anfibios"
+    },
+    {
+      "Id": 5,
+      "Name": "Animales pequeños"
+    }
+  ],
+  "CategoryTwo": [
+    {
+      "Id": 0,
+      "Name": "Comida",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 1,
+      "Name": "Premios",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 2,
+      "Name": "Accesorios y Ropa",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 3,
+      "Name": "Camas y Muebles",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 4,
+      "Name": "Collares y arneses",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 5,
+      "Name": "Productos de higiene",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 6,
+      "Name": "Juguetes",
+      "CategoryOneId": 0
+    },
+    {
+      "Id": 7,
+      "Name": "Comida",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 8,
+      "Name": "Premios",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 9,
+      "Name": "Juguetes",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 10,
+      "Name": "Camas y muebles",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 11,
+      "Name": "Correas y arneses",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 12,
+      "Name": "Productos de higiene",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 13,
+      "Name": "Accesorios y Ropa",
+      "CategoryOneId": 1
+    },
+    {
+      "Id": 14,
+      "Name": "Comida",
+      "CategoryOneId": 2
+    },
+    {
+      "Id": 15,
+      "Name": "Pecesas y acuarios",
+      "CategoryOneId": 2
+    },
+    {
+      "Id": 16,
+      "Name": "Limpiadores acuarios",
+      "CategoryOneId": 2
+    },
+    {
+      "Id": 17,
+      "Name": "Decoración para acuarios",
+      "CategoryOneId": 2
+    },
+    {
+      "Id": 18,
+      "Name": "Luces y accesorios para acuarios",
+      "CategoryOneId": 2
+    },
+    {
+      "Id": 19,
+      "Name": "Bombas y filtros para acuarios",
+      "CategoryOneId": 2
+    },
+    {
+      "Id": 20,
+      "Name": "Comida",
+      "CategoryOneId": 3
+    },
+    {
+      "Id": 21,
+      "Name": "Jaulas",
+      "CategoryOneId": 3
+    },
+    {
+      "Id": 22,
+      "Name": "Productos para comida y agua",
+      "CategoryOneId": 3
+    },
+    {
+      "Id": 23,
+      "Name": "Juguetes para aves",
+      "CategoryOneId": 3
+    },
+    {
+      "Id": 24,
+      "Name": "Procutos varios",
+      "CategoryOneId": 3
+    },
+    {
+      "Id": 25,
+      "Name": "Comida",
+      "CategoryOneId": 4
+    },
+    {
+      "Id": 26,
+      "Name": "Terrarios",
+      "CategoryOneId": 4
+    },
+    {
+      "Id": 27,
+      "Name": "Productos salud",
+      "CategoryOneId": 4
+    },
+    {
+      "Id": 28,
+      "Name": "Decoración hábitats",
+      "CategoryOneId": 4
+    },
+    {
+      "Id": 29,
+      "Name": "Procutos varios",
+      "CategoryOneId": 4
+    },
+    {
+      "Id": 30,
+      "Name": "Comida",
+      "CategoryOneId": 5
+    },
+    {
+      "Id": 31,
+      "Name": "Collares y arneses",
+      "CategoryOneId": 5
+    },
+    {
+      "Id": 32,
+      "Name": "Ruedas de ejercicio",
+      "CategoryOneId": 5
+    },
+    {
+      "Id": 33,
+      "Name": "Casas y Hábitats",
+      "CategoryOneId": 5
+    },
+    {
+      "Id": 34,
+      "Name": "Productos de higiene",
+      "CategoryOneId": 5
+    },
+    {
+      "Id": 35,
+      "Name": "Produtos varios",
+      "CategoryOneId": 5
+    }
+  ],
+  "Products": [
+    {
+      "Id": 0,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Pedigree Complete Nutrition",
+      "Description": "Alimento seco para perros adultos, pollo asado, arroz y verduras con sabor a croquetas para perros, bolsa de 30 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Pedigree+Complete+Nutrition",
+      "Price": 24.99,
+      "Mark": "Pedigree",
+      "Stock": 10
+    },
+    {
+      "Id": 1,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Blue Buffalo",
+      "Description": "Alimento seco con la fórmula Life Protection, natural, para perros adultos, con pollo y arroz integral, 5 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Blue+Buffalo",
+      "Price": 14.96,
+      "Mark": "Blue Buffalo",
+      "Stock": 10
+    },
+    {
+      "Id": 2,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "CESAR",
+      "Description": "Comida húmeda y clásica para perros en un paquete variado de trocitos en salsa de receta de carne de res, filete miñón, pollo a la parrilla y chuletón bandejas fáciles de abrir 3.5 onzas (paquete de 24)",
+      "ImagePath": "https://placehold.co/600x400?text=CESAR",
+      "Price": 16.95,
+      "Mark": "Cesar",
+      "Stock": 10
+    },
+    {
+      "Id": 3,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Purina Pro Plan SAVOR",
+      "Description": "mezcla triturada con probióticos para perros adultos - comida seca",
+      "ImagePath": "https://placehold.co/600x400?text=Purina+Pro+Plan+SAVOR",
+      "Price": 49.58,
+      "Mark": "Purina Pro Plan",
+      "Stock": 10
+    },
+    {
+      "Id": 4,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Taste of the Wild High Prairie",
+      "Description": "Receta sin granos con bisonte asado y venado, alimento seco para perros adultos, alto contenido de proteínas de carne real y nutrientes y probióticos, 28 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Taste+of+the+Wild+High+Prairie",
+      "Price": 58.99,
+      "Mark": "Test of the Wild",
+      "Stock": 10
+    },
+    {
+      "Id": 5,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Kibbles 'N Bits Original Savory Beef & Chicken Flavors",
+      "Description": "Alimento seco para perros, bolsa de 45 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Kibbles+%27N+Bits+Original+Savory+Beef+%26+C",
+      "Price": 29.98,
+      "Mark": "Kibbles 'n Bits",
+      "Stock": 10
+    },
+    {
+      "Id": 6,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Blue Buffalo Life Protection Formula Natural",
+      "Description": "Alimento seco para perros mayores de raza pequeña, con pollo y arroz integral, bolsa de 5 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Blue+Buffalo+Life+Protection+Formula+Nat",
+      "Price": 16.75,
+      "Mark": "Blue Buffalo",
+      "Stock": 10
+    },
+    {
+      "Id": 7,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Hill's Science Diet",
+      "Description": "Comida húmeda para perros adultos, estómago y piel sensibles, estofado tierno de pavo y arroz, latas de 12.5 onzas, paquete de 12 unidades",
+      "ImagePath": "https://placehold.co/600x400?text=Hill%27s+Science+Diet",
+      "Price": 46.68,
+      "Mark": "Hill's Science Diet",
+      "Stock": 10
+    },
+    {
+      "Id": 8,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Purina ONE SmartBlend True Instinct Natural",
+      "Description": "Alimento seco para perros y golosinas para perros adultos",
+      "ImagePath": "https://placehold.co/600x400?text=Purina+ONE+SmartBlend+True+Instinct+Natu",
+      "Price": 53.19,
+      "Mark": "Purina ONE",
+      "Stock": 10
+    },
+    {
+      "Id": 9,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "PEDIGREE Chopped Ground Dinner",
+      "Description": "Paquete surtido de comida húmeda y suave enlatada para perros adultos, con pollo y carne de res, 13.2 oz, paquete de 24 latas",
+      "ImagePath": "https://placehold.co/600x400?text=PEDIGREE+Chopped+Ground+Dinner",
+      "Price": 37.97,
+      "Mark": "Pedigree",
+      "Stock": 10
+    },
+    {
+      "Id": 10,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Hill's Science Diet",
+      "Description": "Comida para perros adultos, estómago sensible y piel seca, Razas pequeñas",
+      "ImagePath": "https://placehold.co/600x400?text=Hill%27s+Science+Diet",
+      "Price": 55.98,
+      "Mark": "Hill's Science Diet",
+      "Stock": 10
+    },
+    {
+      "Id": 11,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Nutrish Rachael Ray",
+      "Description": "Alimento húmedo para perros, alimento natural para perros adultos con vitaminas, minerales y nutrientes añadidos, carne de res, pollo y digestión suave, paquete variado de 13",
+      "ImagePath": "https://placehold.co/600x400?text=Nutrish+Rachael+Ray",
+      "Price": 28.68,
+      "Mark": "Nutrish",
+      "Stock": 10
+    },
+    {
+      "Id": 12,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Salmon y Sweet potato",
+      "Description": "Alimento seco para perros, sin granos añadidos (carne de res, pollo, salmón y batata)",
+      "ImagePath": "https://placehold.co/600x400?text=Salmon+y+Sweet+potato",
+      "Price": 13.09,
+      "Mark": "Wag",
+      "Stock": 10
+    },
+    {
+      "Id": 13,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Purina One Plus Digestive Health Formula",
+      "Description": "Alimento seco para perros natural con vitaminas, minerales y nutrientes añadidos, bolsa de 31.1 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Purina+One+Plus+Digestive+Health+Formula",
+      "Price": 49.98,
+      "Mark": "Purina ONE",
+      "Stock": 10
+    },
+    {
+      "Id": 14,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 0,
+      "Title": "Whole Paws by Whole Foods Market",
+      "Description": "Comida para perros adultos, receta de pollo y quinua, 4 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Whole+Paws+by+Whole+Foods+Market",
+      "Price": 16.95,
+      "Mark": "Whole Paws",
+      "Stock": 10
+    },
+    {
+      "Id": 15,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "NATURE'S LOGIC",
+      "Description": "Galletas con beneficios calmante de soporte, 12 onzas",
+      "ImagePath": "https://placehold.co/600x400?text=NATURE%27S+LOGIC",
+      "Price": 9.26,
+      "Mark": "NATURE'S LOGIC",
+      "Stock": 10
+    },
+    {
+      "Id": 16,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Virbac CET Veggiedent FR3SH Tartar",
+      "Description": "Control Masticables para perros, pequeños",
+      "ImagePath": "https://placehold.co/600x400?text=Virbac+CET+Veggiedent+FR3SH+Tartar",
+      "Price": 26.52,
+      "Mark": "Virbac",
+      "Stock": 10
+    },
+    {
+      "Id": 17,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Rena's Recipe Love Jerky",
+      "Description": "Golosinas masticables suaves sin piel cruda, ideales para recompensas, sabor a cordero y humo",
+      "ImagePath": "https://placehold.co/600x400?text=Rena%27s+Recipe+Love+Jerky",
+      "Price": 21.99,
+      "Mark": "Love Jerky",
+      "Stock": 10
+    },
+    {
+      "Id": 18,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Mushtoom complex ",
+      "Description": "Complejo de hongos para perros con hongos Reishi, shiitake y cola de pavo para cognición y refuerzo inmunológico, apoya la salud digestiva y reduce la inflamación DHA EPA Turmeric Kelp 30 masticables",
+      "ImagePath": "https://placehold.co/600x400?text=Mushtoom+complex",
+      "Price": 14.99,
+      "Mark": "LEGITPET",
+      "Stock": 10
+    },
+    {
+      "Id": 19,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Pet'n Shape Hide Twists",
+      "Description": "Golosinas para perros de cuero crudo envueltas en pollo, giro pequeño, 2 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Pet%27n+Shape+Hide+Twists",
+      "Price": 32.69,
+      "Mark": "Pet'n Shape",
+      "Stock": 10
+    },
+    {
+      "Id": 20,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "SmartBones Mini masticables con mantequilla de maní real",
+      "Description": "32 unidades, masticables sin piel cruda para perros",
+      "ImagePath": "https://placehold.co/600x400?text=SmartBones+Mini+masticables+con+mantequi",
+      "Price": 16.9,
+      "Mark": "SmartBones",
+      "Stock": 10
+    },
+    {
+      "Id": 21,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Pork Chomps Masticable",
+      "Description": "Piel de cerdo prensada asada para perros, hueso de 7 pulgadas, 1 unidad",
+      "ImagePath": "https://placehold.co/600x400?text=Pork+Chomps+Masticable",
+      "Price": 2.99,
+      "Mark": "Pork Chomps",
+      "Stock": 10
+    },
+    {
+      "Id": 22,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Good'n'Fun Crujientes espirales",
+      "Description": "Crujientes espirales de ternera/pollo 5 pulgadas - 3 unidades",
+      "ImagePath": "https://placehold.co/600x400?text=Good%27n%27Fun+Crujientes+espirales",
+      "Price": 3.98,
+      "Mark": "Good 'n' Fun",
+      "Stock": 10
+    },
+    {
+      "Id": 23,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Nylabone",
+      "Description": "Premios de pavo y papa dulce natural para cachorro, comestibles, saludables, pequeños y de larga duración",
+      "ImagePath": "https://placehold.co/600x400?text=Nylabone",
+      "Price": 5.04,
+      "Mark": "Nylabone",
+      "Stock": 10
+    },
+    {
+      "Id": 24,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 1,
+      "Title": "Duck & Rice Stix",
+      "Description": "Golosinas saludables y ricas en proteínas para perros, masticables para perros, ingredientes limitados para un bienestar simple, 4 onzas",
+      "ImagePath": "https://placehold.co/600x400?text=Duck+%26+Rice+Stix",
+      "Price": 5.1,
+      "Mark": "HEALTHFULS",
+      "Stock": 10
+    },
+    {
+      "Id": 25,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Lazos de pelo marrón para perros",
+      "Description": "20 lazos de color marrón para perros pequeños con bandas de goma",
+      "ImagePath": "https://placehold.co/600x400?text=Lazos+de+pelo+marr%C3%B3n+para+perros",
+      "Price": 9.99,
+      "Mark": "Mruq pet",
+      "Stock": 10
+    },
+    {
+      "Id": 26,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Lucky Love Dog",
+      "Description": "Collar para perros medianos, macho o hembra, cómodo, suave y lindo, diseño Blackbird de estampado alegre con flores de primavera y verano, talla M",
+      "ImagePath": "https://placehold.co/600x400?text=Lucky+Love+Dog",
+      "Price": 18.99,
+      "Mark": "Lucky Love Dog",
+      "Stock": 10
+    },
+    {
+      "Id": 27,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Lukovee Impermeable para perro",
+      "Description": "Chaqueta de lluvia ajustable para perro con capucha transparente de doble capa para perros grandes, medianos y pequeños, poncho impermeable para perros con bolsillo",
+      "ImagePath": "https://placehold.co/600x400?text=Lukovee+Impermeable+para+perro",
+      "Price": 19.99,
+      "Mark": "Lukovee",
+      "Stock": 10
+    },
+    {
+      "Id": 28,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Zapatos para perros pequeños",
+      "Description": "Botas transpirables para perrosprotectores de patas para caminar al aire libre, zapatos para cachorros con tiras reflectantes, suela antideslizante",
+      "ImagePath": "https://placehold.co/600x400?text=Zapatos+para+perros+peque%C3%B1os",
+      "Price": 29.99,
+      "Mark": "JZXOIVA",
+      "Stock": 10
+    },
+    {
+      "Id": 29,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Ropa para mascotas",
+      "Description": "Suéter de gato a cuadros con diamantes, accesorios para perros, ropa para perros, estilo clásico de Navidad, Navidad, rojo y blanco, diseño a cuadros",
+      "ImagePath": "https://placehold.co/600x400?text=Ropa+para+mascotas",
+      "Price": 6.99,
+      "Mark": "HAPPE",
+      "Stock": 10
+    },
+    {
+      "Id": 30,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Abrigo de secado para perros",
+      "Description": "Abrigo de secado para perros de microfibra 65 cm, lavable a 30 grados, fácil de vestir",
+      "ImagePath": "https://placehold.co/600x400?text=Abrigo+de+secado+para+perros",
+      "Price": 43.68,
+      "Mark": "Henry Wag",
+      "Stock": 10
+    },
+    {
+      "Id": 31,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Mochila de burbujas",
+      "Description": "Perfecto para perros de hasta 15 libras o gatos de hasta 18 libras. Se adapta fácilmente a gatos, perros pequeños y la mayoría de otras mascotas pequeñas y medianas. ",
+      "ImagePath": "https://placehold.co/600x400?text=Mochila+de+burbujas",
+      "Price": 26.99,
+      "Mark": "Texsens",
+      "Stock": 10
+    },
+    {
+      "Id": 32,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "OneTigris Mochila para perros medianos y grandes",
+      "Description": "Mochila de nailon para perros, mochila táctica para mascotas con bolsillos laterales para senderismo, caminar, entrenar y correr (naranja, mediana)",
+      "ImagePath": "https://placehold.co/600x400?text=OneTigris+Mochila+para+perros+medianos+y",
+      "Price": 37.99,
+      "Mark": "OneTigris",
+      "Stock": 10
+    },
+    {
+      "Id": 33,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Mochila transportadora para perros",
+      "Description": "Transportadora frontal en el pecho para gatos y perros pequeños, bolsa de transporte para mascotas para viajes, senderismo, ciclismo, al aire libre, color rosa",
+      "ImagePath": "https://placehold.co/600x400?text=Mochila+transportadora+para+perros",
+      "Price": 27.99,
+      "Mark": "SMONT",
+      "Stock": 10
+    },
+    {
+      "Id": 34,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 2,
+      "Title": "Gorra para perro y cachorros pequeños",
+      "Description": "Gorra para perro y cachorros pequeños ajustable con protección solar y agujeros para las orejas, atuendo con visera para exterior, color rojo",
+      "ImagePath": "https://placehold.co/600x400?text=Gorra+para+perro+y+cachorros+peque%C3%B1os",
+      "Price": 7.99,
+      "Mark": "Pawaboo",
+      "Stock": 10
+    },
+    {
+      "Id": 35,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Camas ortopédicas para perros de gran tamaño",
+      "Description": "Cama grande de espuma viscoelástica impermeable para perros con lados, parte inferior antideslizante, cama grande para mascotas con funda",
+      "ImagePath": "https://placehold.co/600x400?text=Camas+ortop%C3%A9dicas+para+perros+de+gran+ta",
+      "Price": 45.99,
+      "Mark": "EHEYCIGA ",
+      "Stock": 10
+    },
+    {
+      "Id": 36,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Sofá moderno para mascotas",
+      "Description": "Cubierta Removible, Resistente a las Mordidas",
+      "ImagePath": "https://placehold.co/600x400?text=Sof%C3%A1+moderno+para+mascotas",
+      "Price": 106.99,
+      "Mark": "CosyDecor",
+      "Stock": 10
+    },
+    {
+      "Id": 37,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Escaleras para perros pequeños, medianos y grande",
+      "Description": "Escaleras para perros pequeños, medianos y grandes, para meterse en la cama, escaleras para perros para cama alta, sofá, auto, escaleras para mascotas, para perrito, cachorro, gato",
+      "ImagePath": "https://placehold.co/600x400?text=Escaleras+para+perros+peque%C3%B1os%2C+medianos",
+      "Price": 37.98,
+      "Mark": "Supet",
+      "Stock": 10
+    },
+    {
+      "Id": 38,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Cama Bolster para perros extra pequeños",
+      "Description": "Cama Bolster para perros extra pequeños de 18 x 12 pulgadas, sofá de espuma suave para mascotas, lavable a máquina, ideal para razas de juguetes y mascotas, color azul marino",
+      "ImagePath": "https://placehold.co/600x400?text=Cama+Bolster+para+perros+extra+peque%C3%B1os",
+      "Price": 9.99,
+      "Mark": "Patas Lague",
+      "Stock": 10
+    },
+    {
+      "Id": 39,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Alfombrilla impermeable",
+      "Description": "La cama cuenta con un diseño tradicional de colchón abierto que da a las mascotas mucho espacio para dormir en una variedad de posiciones; es una opción ideal tanto para los abrazadores como para los que se encuentran por igual",
+      "ImagePath": "https://placehold.co/600x400?text=Alfombrilla+impermeable",
+      "Price": 9.99,
+      "Mark": "Furhaven Pet",
+      "Stock": 10
+    },
+    {
+      "Id": 40,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Manta impermeable para perro",
+      "Description": "A prueba de fugas y resistente al agua: diseño de funda de cama para perro impermeable Bigbeer con forro de TPU, material de microfibra resistente al agua en ambos lados, que puede evitar fugas de líquido y será una buena opción como protector de sofá para perros.",
+      "ImagePath": "https://placehold.co/600x400?text=Manta+impermeable+para+perro",
+      "Price": 33.99,
+      "Mark": "Bigbeer",
+      "Stock": 10
+    },
+    {
+      "Id": 41,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Manta cálida con estampado de patas para perros y gatos",
+      "Description": "Una ropa de cama ideal para transportadores de mascotas, camas y nidos. También es perfecta para sofá o asientos de coche para evitar arañazos o desprendimientos.",
+      "ImagePath": "https://placehold.co/600x400?text=Manta+c%C3%A1lida+con+estampado+de+patas+para",
+      "Price": 14.99,
+      "Mark": "Comsmart ",
+      "Stock": 10
+    },
+    {
+      "Id": 42,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 3,
+      "Title": "Alfombrilla impermeable reversible para jaula de perro",
+      "Description": "La cama para perros VANKEAN cuenta con un diseño tradicional rectangular abierto que proporciona a las mascotas mucho espacio para dormir en una variedad de posiciones que se adaptan a casi cualquier lugar, incluyendo jaulas, autos y cualquier habitación de tu hogar",
+      "ImagePath": "https://placehold.co/600x400?text=Alfombrilla+impermeable+reversible+para+",
+      "Price": 21.99,
+      "Mark": "VANKEAN ",
+      "Stock": 10
+    },
+    {
+      "Id": 43,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Bozal para perro",
+      "Description": "Bozal de cesta para morder, masticar y carroñar, cubierta de boca de jaula humana, perfecto para aseo y entrenamiento, perros medianos y reactivos agresivos grandes",
+      "ImagePath": "https://placehold.co/600x400?text=Bozal+para+perro",
+      "Price": 21.99,
+      "Mark": "BARKLESS",
+      "Stock": 10
+    },
+    {
+      "Id": 44,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Collar resistente para perro",
+      "Description": "Collar de nailon balístico resistente | Collar de perro reflectante acolchado con accesorios de acero inoxidable ajustables | Tamaño conveniente para todas las razas",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+resistente+para+perro",
+      "Price": 7.96,
+      "Mark": "Tuff Pupper",
+      "Stock": 10
+    },
+    {
+      "Id": 45,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Arnés de cinturón de seguridad extraíble para perro",
+      "Description": "3 en 1, correa de cinturón de seguridad para perro, retención retráctil que se asegura al reposacabezas del vehículo y correa elástica ajustable",
+      "ImagePath": "https://placehold.co/600x400?text=Arn%C3%A9s+de+cintur%C3%B3n+de+seguridad+extra%C3%ADble",
+      "Price": 9.99,
+      "Mark": "laqibak",
+      "Stock": 10
+    },
+    {
+      "Id": 46,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Pechera para perro",
+      "Description": "Pechera “sin jalones” para mascotas con 2 ganchos de correa, chaleco Oxford ajustable, acolchado, suave y reflectante para mascotas; con asa de fácil control",
+      "ImagePath": "https://placehold.co/600x400?text=Pechera+para+perro",
+      "Price": 14.98,
+      "Mark": "Rabbitgoo",
+      "Stock": 10
+    },
+    {
+      "Id": 47,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Arnés antitirones ajustable",
+      "Description": "reflectante, tela Oxford, arnés para perros medianos y grandes con una correa de regalo",
+      "ImagePath": "https://placehold.co/600x400?text=Arn%C3%A9s+antitirones+ajustable",
+      "Price": 21.89,
+      "Mark": "TobeDRI",
+      "Stock": 10
+    },
+    {
+      "Id": 48,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Bozal para perro",
+      "Description": "Bozal transpirable de malla de aire para perros de tamaño mediano y grande para evitar que muerdan, bozal de aseo suave para perro pastor alemán con correa reflectante y ajustable",
+      "ImagePath": "https://placehold.co/600x400?text=Bozal+para+perro",
+      "Price": 9.99,
+      "Mark": "GoRapet",
+      "Stock": 10
+    },
+    {
+      "Id": 49,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Collar de choque para perros",
+      "Description": "Nuestro collar de choque para perros tiene 3 modos de entrenamiento humanizados: pitido, vibración (1-16 niveles) y descarga de seguridad (1-16 niveles). Puede configurar el nivel adecuado de estimulación para su mascota, lo que ayuda a frenar los malos hábitos de su perro.",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+de+choque+para+perros",
+      "Price": 39.99,
+      "Mark": "Airverse",
+      "Stock": 10
+    },
+    {
+      "Id": 50,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 4,
+      "Title": "Soporte de identificación para collar de perro",
+      "Description": "el soporte para placa de identificación de perro pequeño es un accesorio sofisticado que añade estilo al collar de tu perro mientras que también proporciona una funcionalidad esencial. Viene en varios colores para que coincida con la personalidad y el collar de tu perro",
+      "ImagePath": "https://placehold.co/600x400?text=Soporte+de+identificaci%C3%B3n+para+collar+de",
+      "Price": 11.99,
+      "Mark": "Ruthi",
+      "Stock": 10
+    },
+    {
+      "Id": 51,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Cepillos para perros",
+      "Description": "2 herramientas de aseo para mascotas seleccionadas por los amantes de los perros, que pueden satisfacer todas las necesidades diarias de aseo de las mascotas. Permítase, como peluquero, darle personalmente a su amigo peludo un abrigo brillante y saludable. Este es un juego de productos de belleza imprescindible para los amantes de las mascotas. También es el mejor regalo para tu mascota",
+      "ImagePath": "https://placehold.co/600x400?text=Cepillos+para+perros",
+      "Price": 7.97,
+      "Mark": "UGNEL",
+      "Stock": 10
+    },
+    {
+      "Id": 52,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Kit de cortaúñas y cortaúñas para perros",
+      "Description": "El recortador de uñas para perro tiene 3 ajustes de velocidad de rotación, lo suficientemente potente como para soportar el pulido de uñas de cualquier dureza. Y los 3 puertos coinciden con el tamaño de uñas pequeñas, medianas o grandes. Puedes arreglar las uñas en casa como un profesional a través del puerto y la velocidad apropiados",
+      "ImagePath": "https://placehold.co/600x400?text=Kit+de+corta%C3%BA%C3%B1as+y+corta%C3%BA%C3%B1as+para+perros",
+      "Price": 19.95,
+      "Mark": "YABIFE ",
+      "Stock": 10
+    },
+    {
+      "Id": 53,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Toallitas multiusos para perros con aloe vera para mascotas",
+      "Description": "Las toallitas para perros de Wet Ones for Pets están formuladas con ingredientes de primera línea para eliminar la suciedad, la caspa y los desechos mientras mantienen a tu mascota fresca y limpia entre baños",
+      "ImagePath": "https://placehold.co/600x400?text=Toallitas+multiusos+para+perros+con+aloe",
+      "Price": 6.24,
+      "Mark": "Wet Ones",
+      "Stock": 10
+    },
+    {
+      "Id": 54,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Lavado para perros al aire libre",
+      "Description": "8 patrones de pulverización: el rociador para perros viene en un cabezal de rociado 8 en 1, girando el cabezal de rociado para cambiar el patrón de pulverización: ducha, cono, corriente, enjuague, plano, centro, chorro, niebla, diferentes modos adoptan para diferentes ocasiones, se puede utilizar para ducha de perro, baño de caballo, regar flores, lavado de autos, mantener el césped, jugar juegos de agua, limpiar el techo, etc.",
+      "ImagePath": "https://placehold.co/600x400?text=Lavado+para+perros+al+aire+libre",
+      "Price": 15.99,
+      "Mark": "Pup Jet",
+      "Stock": 10
+    },
+    {
+      "Id": 55,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Kit de peine de aseo para mascotas para perros pequeños",
+      "Description": "Diseño de doble cabezal: el peine de acero se utiliza para eliminar la molesta mancha de lágrima, y el cepillo en el otro lado es para ayudar a suavizar el cabello alrededor de los ojos; Aparte de eso, también puede usarlo para pulir el polvo de cejas y eliminar el exceso de rímel",
+      "ImagePath": "https://placehold.co/600x400?text=Kit+de+peine+de+aseo+para+mascotas+para+",
+      "Price": 6.99,
+      "Mark": "GUBCUB",
+      "Stock": 10
+    },
+    {
+      "Id": 56,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Champú y acondicionador para perros",
+      "Description": "El champú y acondicionador para perros de fórmula veterinaria de Pawfume no será negociable en tu colección de suministros de aseo canino. Nuestro champú y acondicionador hidratante para perros garantiza un pelaje más suave y saludable",
+      "ImagePath": "https://placehold.co/600x400?text=Champ%C3%BA+y+acondicionador+para+perros",
+      "Price": 12.99,
+      "Mark": "Pawfume",
+      "Stock": 10
+    },
+    {
+      "Id": 57,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 5,
+      "Title": "Tijeras de aseo profesional para perros con puntas redondas de seguridad",
+      "Description": "Kit profesional de tijeras de aseo para mascotas -El kit incluye 1 tijeras de entresacar de 6.5 pulgadas, 1 tijeras curvadas de 6.5 pulgadas, 1 tijeras rectas de 6.5 pulgadas, 1 peine para mascotas, 1 paño de limpieza, 1 funda de cuero negra",
+      "ImagePath": "https://placehold.co/600x400?text=Tijeras+de+aseo+profesional+para+perros+",
+      "Price": 19.99,
+      "Mark": "GLADOG",
+      "Stock": 10
+    },
+    {
+      "Id": 58,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Pelota ultra chirriadora para perros pequeños",
+      "Description": "Juguete de bola chirriante: este paquete de 2 bolas chirriantes para perros está diseñado con un chirriador incorporado que crea sonidos divertidos durante la búsqueda, lo que hace que la búsqueda sea más emocionante para los perros. Compatible con lanzadores de bolas para perros Chuckit",
+      "ImagePath": "https://placehold.co/600x400?text=Pelota+ultra+chirriadora+para+perros+peq",
+      "Price": 6.99,
+      "Mark": "CHUCKIT",
+      "Stock": 10
+    },
+    {
+      "Id": 59,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Juguete resistente para perros",
+      "Description": "Juguetes masticables para la dentición de los perros: Los huesos del perro están hechos de nailon y goma. El diseño único de la goma para limpiar los dientes es más útil que los juguetes de nailon ordinarios. Como con todos los juguetes de nailon, los perros pueden descascarar piezas muy pequeñas y dejar marcas de dientes en el juguete masticable. Pueden tragar piezas astilladas y deben pasarlas de forma fácil",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+resistente+para+perros",
+      "Price": 11.75,
+      "Mark": "Apasiri",
+      "Stock": 10
+    },
+    {
+      "Id": 60,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Paquete de 3 juguetes para perros para masticadores agresivos",
+      "Description": "Juguetes resistentes para perros con sabor a tocino: mantén a tu amigo peludo enganchado durante horas con nuestros juguetes masticables para perros con sabor a tocino para masticadores agresivos de razas grandes. Tienen un sabor a tocino genuino y duradero que es seguro para uso alimentario. Perfecto para diversión sin fin y vencer el aburrimiento",
+      "ImagePath": "https://placehold.co/600x400?text=Paquete+de+3+juguetes+para+perros+para+m",
+      "Price": 26.99,
+      "Mark": "Willjoy",
+      "Stock": 10
+    },
+    {
+      "Id": 61,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Fibra de bambú y nailon",
+      "Description": "La introducción de estos juguetes masticables para perros no solo aborda el impulso natural de tu perro de masticar, sino que también ayuda a minimizar la acumulación de bacterias y combatir el mal aliento, sirviendo como un juguete de limpieza de dientes de perro",
+      "ImagePath": "https://placehold.co/600x400?text=Fibra+de+bamb%C3%BA+y+nailon",
+      "Price": 4.45,
+      "Mark": "SPOT",
+      "Stock": 10
+    },
+    {
+      "Id": 62,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Frisbee",
+      "Description": "Jugar con un frisbee es un gran ejercicio divertido y saludable tanto para usted como para su amado perro. Es la manera perfecta de pasar más tiempo al aire libre, es un regalo ideal para los amantes de los perros, y cuando tu perro tenga sed, incluso puedes darle la vuelta y usarlo como un tazón para beber",
+      "ImagePath": "https://placehold.co/600x400?text=Frisbee",
+      "Price": 11.99,
+      "Mark": "IMK9",
+      "Stock": 10
+    },
+    {
+      "Id": 63,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Juguete de cuerda para perros masticadores agresivos",
+      "Description": "100% algodón natural sin teñir: nuestro juguete de cuerda para perro está hecho de 100% algodón natural lavable sin tintes químicos. Es seguro para que tu mascota mastique y juegue a diario. La cuerda masticable para perros también es útil para limpiar los dientes de tu perro y mantener la salud bucal de tu perro. Mantén a tus mascotas sanas y felices",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+de+cuerda+para+perros+masticador",
+      "Price": 20.99,
+      "Mark": "PetiFine",
+      "Stock": 10
+    },
+    {
+      "Id": 64,
+      "CategoryOneId": 0,
+      "CategoryTwoId": 6,
+      "Title": "Juguete chirriantes de felpa",
+      "Description": "Juguete resistente para masticar para perros: nuestros juguetes de peluche para perros no solo son entretenidos, sino también duraderos. Hecho de material de felpa resistente, pueden soportar el juego animado de tu mascota y masticar intensamente",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+chirriantes+de+felpa",
+      "Price": 12.29,
+      "Mark": "Erneston",
+      "Stock": 10
+    },
+    {
+      "Id": 65,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Fancy Feast Seafood Classic Paté",
+      "Description": "Purina Comida húmeda para gatos Fancy Feast hecha sin colorantes artificiales ni conservantes, Fabricado con ingredientes reales de alta calidad para ofrecer un alimento enlatado 100% completo y equilibrado para gatos",
+      "ImagePath": "https://placehold.co/600x400?text=Fancy+Feast+Seafood+Classic+Pat%C3%A9",
+      "Price": 23.2,
+      "Mark": "Purina",
+      "Stock": 10
+    },
+    {
+      "Id": 66,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Alimento húmedo en conserva para gatos",
+      "Description": "Elaborado con carne, pollo o pescado real. Trozos finos y tiernos que ofrecen una textura tentadora, Cada receta incluye una sabrosa salsa. Nutrición 100 por ciento completa y equilibrada para gatos adultos.",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+h%C3%BAmedo+en+conserva+para+gatos",
+      "Price": 29.19,
+      "Mark": "Purina",
+      "Stock": 10
+    },
+    {
+      "Id": 67,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Alimento seco para gato con fórmula nutritiva",
+      "Description": "La comida para gatitos Purina hecha con un 25 por ciento más de proteínas (en comparación con la comida líder para gatos adultos) y pollo real y delicioso criado en granja ayuda a apoyar el desarrollo de los músculos magros mientras salta y juega",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+seco+para+gato+con+f%C3%B3rmula+nutr",
+      "Price": 18.28,
+      "Mark": "Purina",
+      "Stock": 10
+    },
+    {
+      "Id": 68,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Cat Chow Adultos",
+      "Description": "Alimento para gatos adultos Pouche Carne 85gr",
+      "ImagePath": "https://placehold.co/600x400?text=Cat+Chow+Adultos",
+      "Price": 1.26,
+      "Mark": "Purina",
+      "Stock": 10
+    },
+    {
+      "Id": 69,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Alimento para gatos adultos",
+      "Description": "Más del 70% de la proteína animal usada en la formula proviene del salmón, proteína de alto valor biológico. La salud urinaria mejora debido a que reduce la inflamación y descamación vesical gracias a su variedad de frutos rojos, ricos en polifenoles",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+para+gatos+adultos",
+      "Price": 26.07,
+      "Mark": "Wellness",
+      "Stock": 10
+    },
+    {
+      "Id": 70,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Whiskas Pollo y Leche seco",
+      "Description": "Alimento seco para gatos Whiskas Pollo y leche mx, combina nutrientes esenciales con irresistibles croquetas y crujientes empanaditas rellenas. Su fórmula contiene niveles adecuados de minerales que cuidan sus vías urinarias, Omega 6 para un pelaje brillante y aminoácidos esenciales para la salud de su corazón, cerebro y ojos",
+      "ImagePath": "https://placehold.co/600x400?text=Whiskas+Pollo+y+Leche+seco",
+      "Price": 11.2,
+      "Mark": "Whiskas ",
+      "Stock": 10
+    },
+    {
+      "Id": 71,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 7,
+      "Title": "Nutrapro Nugget Gato Adult",
+      "Description": "Alimento para gatos  científicamente formulado. Contribuye al correcto funcionamiento de la salud y mejora la calidad de vida de su gato",
+      "ImagePath": "https://placehold.co/600x400?text=Nutrapro+Nugget+Gato+Adult",
+      "Price": 8.0,
+      "Mark": "Nutra Pro",
+      "Stock": 10
+    },
+    {
+      "Id": 72,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Party Mix Natural YUMS",
+      "Description": "Friskies Golosinas para gatos hechas con pescado real como primer ingrediente y dos calorías por golosina. La golosina para gatos Purina cuenta con una receta natural que a los gatos les encanta con vitaminas, minerales y nutrientes añadidos",
+      "ImagePath": "https://placehold.co/600x400?text=Party+Mix+Natural+YUMS",
+      "Price": 15.34,
+      "Mark": "Friskies",
+      "Stock": 10
+    },
+    {
+      "Id": 73,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Greenies Feline Adult Natural Dental Cat Treats",
+      "Description": "Este práctico envase contiene 9,75 oz de delicias dentales crujientes FELINE GREENIES con sabor a pollo asado al horno",
+      "ImagePath": "https://placehold.co/600x400?text=Greenies+Feline+Adult+Natural+Dental+Cat",
+      "Price": 10.98,
+      "Mark": "Greenies",
+      "Stock": 10
+    },
+    {
+      "Id": 74,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Premios crujientes Bursts para gatos",
+      "Description": "Todo comienza con pollo de verdad: A diferencia de muchas otras marcas, estos premios para gatos cuentan con carne real como el primer ingrediente para tentar a tu amigo felino",
+      "ImagePath": "https://placehold.co/600x400?text=Premios+crujientes+Bursts+para+gatos",
+      "Price": 2.9,
+      "Mark": "Blue Buffalo",
+      "Stock": 10
+    },
+    {
+      "Id": 75,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Puré cremoso con pollo, salmón y atún, paquete variado de golosinas para gatos lamibles",
+      "Description": "Contiene veinticuatro (24) tubos de golosinas para gatos de 0.42 onzas de puré cremoso TEMPTATIONS con ocho (8) golosinas para gatos lamibles de pollo, ocho (8) golosinas para gatos lamibles con salmón y ocho (8) golosinas para gatos lamibles con atún",
+      "ImagePath": "https://placehold.co/600x400?text=Pur%C3%A9+cremoso+con+pollo%2C+salm%C3%B3n+y+at%C3%BAn%2C+p",
+      "Price": 11.95,
+      "Mark": "Temptations",
+      "Stock": 10
+    },
+    {
+      "Id": 76,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Freestyle Perfect Purees",
+      "Description": "Receta de paquete variado: golosinas prémium para gatos con un alto contenido de humedad para promover la hidratación de tu amigo felino durante todo el día. Paquete de 10, 0.5 onzas cada uno",
+      "ImagePath": "https://placehold.co/600x400?text=Freestyle+Perfect+Purees",
+      "Price": 9.99,
+      "Mark": "Nulo",
+      "Stock": 10
+    },
+    {
+      "Id": 77,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Golosinas liofilizadas originales para gatos",
+      "Description": "Una bolsa de 1,25 oz de golosinas liofilizadas originales para gatos ORIJEN, Las golosinas para gatos sin cereales están liofilizadas para conservar los nutrientes y el rico sabor",
+      "ImagePath": "https://placehold.co/600x400?text=Golosinas+liofilizadas+originales+para+g",
+      "Price": 7.39,
+      "Mark": "ORIJEN",
+      "Stock": 10
+    },
+    {
+      "Id": 78,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 8,
+      "Title": "Golosinas naturales para gatos, puré para lamer",
+      "Description": "Delicias para gatos que se pueden lamer hechas con auténtico atún de aguas profundas o pollo criado en granjas en sabores salados que les encantan a los gatos",
+      "ImagePath": "https://placehold.co/600x400?text=Golosinas+naturales+para+gatos%2C+pur%C3%A9+par",
+      "Price": 3.74,
+      "Mark": "INABA",
+      "Stock": 10
+    },
+    {
+      "Id": 79,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Juguete para gatos con bola",
+      "Description": "Juguete interactivo para arañar gatos: a los gatos les encanta el juguete LovinPup para gatos. El diseño único mantendrá a tu gato entretenido durante horas. Dale a tu gato un buen rato con este divertido y genial juguete para gatos",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+para+gatos+con+bola",
+      "Price": 13.99,
+      "Mark": "LOVINPUP",
+      "Stock": 10
+    },
+    {
+      "Id": 80,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Juguetes para gatos, pájaro colgante",
+      "Description": "Juguete colgante para gatos: cuelga los juguetes interactivos para gatos de interior en marcos de puertas u otras áreas lisas a través de un gancho adhesivo. Cuando tu gato lo toque, volará hacia adelante y hacia atrás, y el mecanismo integrado emite canciones realistas de pájaros, haciendo que tu gato se vuelva loco",
+      "ImagePath": "https://placehold.co/600x400?text=Juguetes+para+gatos%2C+p%C3%A1jaro+colgante",
+      "Price": 5.64,
+      "Mark": "LEWISER",
+      "Stock": 10
+    },
+    {
+      "Id": 81,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Juguete interactivo para gatos de 3 niveles",
+      "Description": "Juguete de pistas mentalmente atractivo: este juguete interactivo para gatos está diseñado con 3 niveles de pistas y 3 bolas móviles de colores brillantes para atraer su atención",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+interactivo+para+gatos+de+3+nive",
+      "Price": 29.03,
+      "Mark": "Catstages",
+      "Stock": 10
+    },
+    {
+      "Id": 82,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Varita mágica de juguete para amantes de gatos Cat Dancer",
+      "Description": "La varita de juguete para gatos Rainbow es una gran manera de atraer la atención de tu gato y hacerlo activo. Es un señuelo irresistible para tu gato y a tu gato le encantará este juguete de cuerda",
+      "ImagePath": "https://placehold.co/600x400?text=Varita+m%C3%A1gica+de+juguete+para+amantes+de",
+      "Price": 3.74,
+      "Mark": "Cat Dancer",
+      "Stock": 10
+    },
+    {
+      "Id": 83,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Túnel interactivo para gatos de interior",
+      "Description": "El túnel para mascotas es un juguete para gatos, gatitos, conejos, cachorros y mascotas pequeñas cuando están jugando, también es una cama para gatos cuando se prueban",
+      "ImagePath": "https://placehold.co/600x400?text=T%C3%BAnel+interactivo+para+gatos+de+interior",
+      "Price": 9.99,
+      "Mark": "iCAGY",
+      "Stock": 10
+    },
+    {
+      "Id": 84,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Alfombra de agua gruesa para gatos, alfombrilla de juego con sensor de agua antiarañazos",
+      "Description": "Material de engrosamiento: nuestra alfombrilla de juego de agua para gatos está hecha de material de PVC grueso mejorado, nuestro grosor es de 0.016 in, el doble del grosor del mercado. Utilizando la tercera generación de tecnología de actualización antiarañazos, gruesa, resistente al desgaste, antiarañazos, evita eficazmente que las garras afiladas de las mascotas rayen la almohadilla de juego de agua para gatos, puede dejar que el gato se raye más veces, y no es fácil de romper, el uso de más tiempo",
+      "ImagePath": "https://placehold.co/600x400?text=Alfombra+de+agua+gruesa+para+gatos%2C+alfo",
+      "Price": 13.99,
+      "Mark": "AVETANK",
+      "Stock": 10
+    },
+    {
+      "Id": 85,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 9,
+      "Title": "Juguete de salud dental para gato con hierba gatera",
+      "Description": "Hermoso y crujiente juguete de salud dental para gatos: este tonto juguete para gato Crunchy Pickle Kicker está hecho con una textura crujiente que vuelve locos a los gatos. Genial para jugar de modo interactivo o en solitario; estos juguetes de salud dental para gato con hierba gatera nunca decepcionan",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+de+salud+dental+para+gato+con+hi",
+      "Price": 5.59,
+      "Mark": "Catstages",
+      "Stock": 10
+    },
+    {
+      "Id": 86,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Árbol para gatos con condominio para gatos y hamaca grande, color gris",
+      "Description": "Piel sintética de alta calidad, postes de sisal natural duraderos para arañazos durante mucho tiempo, La bola colgante puede proporcionar a los gatos mucha diversión, también se puede reemplazar",
+      "ImagePath": "https://placehold.co/600x400?text=%C3%81rbol+para+gatos+con+condominio+para+gat",
+      "Price": 39.99,
+      "Mark": "YUNWEI ",
+      "Stock": 10
+    },
+    {
+      "Id": 87,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Árbol pequeño para gatos de interior, torre para gatos con poste rascador",
+      "Description": "La percha superior está cubierta con pelos largos para mayor suavidad, proporciona un lugar acogedor y suficiente para que tu gatito se estire o bosteze. Los pelos están bien adheridos para evitar que se extiendan por la casa",
+      "ImagePath": "https://placehold.co/600x400?text=%C3%81rbol+peque%C3%B1o+para+gatos+de+interior%2C+to",
+      "Price": 31.99,
+      "Mark": "SYANDLVY ",
+      "Stock": 10
+    },
+    {
+      "Id": 88,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Escaleras para mascotas para perros pequeños",
+      "Description": "Las escaleras para mascotas utilizan tablero de densidad de alta calidad para garantizar una gran estabilidad y apoyo, que puede soportar mascotas de hasta 70 libras. La superficie del escalón está hecha de forro polar sintético que es antideslizante y resistente a los arañazos. La tabla base extendida hace que la pendiente sea más suave para escalar fácilmente",
+      "ImagePath": "https://placehold.co/600x400?text=Escaleras+para+mascotas+para+perros+pequ",
+      "Price": 59.99,
+      "Mark": "Pettycare",
+      "Stock": 10
+    },
+    {
+      "Id": 89,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Tapete rascador para gatos",
+      "Description": " La alfombrilla rascadora para gatos es 100% viscosa hecha de bambú, resistente y duradera, segura y no tóxica, respetuosa con el medio ambiente y biodegradable, muy amigable para los gatos",
+      "ImagePath": "https://placehold.co/600x400?text=Tapete+rascador+para+gatos",
+      "Price": 12.99,
+      "Mark": "Niubya",
+      "Stock": 10
+    },
+    {
+      "Id": 90,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Mantas para mascotas para gatos",
+      "Description": "Diseño y material de alta calidad para bebés de mascotas: las mantas de gato Qeils aplican material reversible, bonito color gris y franela supersuave y cálida en capas en la parte superior con bonitas huellas de mascotas, y acogedor forro polar Sherpa en la parte posterior, los dobles lados con diferentes grosores hacen que se utilice para todas las estaciones. Nuestra manta para mascotas viene con envoltura de regalo empaquetada",
+      "ImagePath": "https://placehold.co/600x400?text=Mantas+para+mascotas+para+gatos",
+      "Price": 9.99,
+      "Mark": "Qeils ",
+      "Stock": 10
+    },
+    {
+      "Id": 91,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Rascador para gatos",
+      "Description": "Las almohadillas rascadoras para gatos pueden ayudar a proteger tus muebles de daños en las garras, reduciendo los arañazos no deseados de otros objetos domésticos",
+      "ImagePath": "https://placehold.co/600x400?text=Rascador+para+gatos",
+      "Price": 19.79,
+      "Mark": "FUKUMARU ",
+      "Stock": 10
+    },
+    {
+      "Id": 92,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 10,
+      "Title": "Protector de muebles antiarañazos para gatos",
+      "Description": "Hay un espacio precortado en un extremo de cada hoja, lo que hace que la cinta de entrenamiento para gatos sea fácil de quitar del tablero e instalar en el sofá sin esfuerzo",
+      "ImagePath": "https://placehold.co/600x400?text=Protector+de+muebles+antiara%C3%B1azos+para+g",
+      "Price": 18.99,
+      "Mark": "Polamg",
+      "Stock": 10
+    },
+    {
+      "Id": 93,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Juego de arnés y correa para gatos",
+      "Description": "Para garantizar que cada gato tenga derecho a bañarse bajo el sol de forma libre y segura, el equipo de Halypet ha realizado más de 600 días de esfuerzos para probar (Escape Proof) más de 4000 veces, y finalmente crea este nuevo juego de arnés y correa para gatos, (H200 Pro) después de 3 actualizaciones, basado en comentarios de cientos de amantes de los gatos. Patente en pendiente. Nuestro revolucionario diseño a prueba de escape permite que tu gato siempre viaje al aire libre contigo de forma segura",
+      "ImagePath": "https://placehold.co/600x400?text=Juego+de+arn%C3%A9s+y+correa+para+gatos",
+      "Price": 14.99,
+      "Mark": "Halypet",
+      "Stock": 10
+    },
+    {
+      "Id": 94,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Collar reflectante para gato con hebilla de seguridad y campana extraíble",
+      "Description": "El collar de gato Pawtitas es adecuado para cualquier etapa de sus vidas, desde un gatito hasta un gato mayor. El collar de gato es ajustable para tamaños de cuello entre 8 y 12 pulgadas",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+reflectante+para+gato+con+hebilla",
+      "Price": 10.98,
+      "Mark": "Pawtitas",
+      "Stock": 10
+    },
+    {
+      "Id": 95,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Collar reflectante para gato con campanas",
+      "Description": "Contiene: 1 collar de huellas y 1 collar de tira, hechos de tela de nailon resistente que puede soportar el uso diario. La campana bien atada es lo suficientemente fuerte como para que sepas dónde está tu gato/gatito sin incomodarlo. También es fácil de quitar si es necesario",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+reflectante+para+gato+con+campana",
+      "Price": 6.99,
+      "Mark": "Taglory",
+      "Stock": 10
+    },
+    {
+      "Id": 96,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Collar antipulgas para gatos",
+      "Description": "Nuestro collar de pulgas para gatos viene con 4 paquetes con un total de 32 meses de prevención de pulgas y garrapatas para gatos. Nuestro paquete de tratamiento de pulgas y garrapatas de gato trata pulgas y garrapatas para gatos. Nuestro collar antipulgas funciona durante más de 8 meses para la prevención de pulgas y garrapatas de gato. Cada paquete incluye 4 paquetes de collares de garrapatas",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+antipulgas+para+gatos",
+      "Price": 19.97,
+      "Mark": "TriOak",
+      "Stock": 10
+    },
+    {
+      "Id": 97,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Arnés táctico para gato y correa para caminar a prueba de escape",
+      "Description": "Viene con un arnés táctico para gatos y una correa para gato, regalo con un parche, añadiendo más encanto a tu gato. Nuestro arnés para gatos con mango de control para ayudarte a agarrar el gato directamente en situaciones difíciles. Haz que tú y tu gato estén más seguros durante el camino",
+      "ImagePath": "https://placehold.co/600x400?text=Arn%C3%A9s+t%C3%A1ctico+para+gato+y+correa+para+ca",
+      "Price": 23.99,
+      "Mark": "AIWAI",
+      "Stock": 10
+    },
+    {
+      "Id": 98,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Collar reflectante AirTag para gato",
+      "Description": "Los collares para gatos ODOKELE AirTag están disponibles en 2 tamaños (XS: 7-9 pulgadas, S: 9-13 pulgadas), este collar rastreador para gatos es adecuado para gatos/gatitos/cachorros/perros pequeños",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+reflectante+AirTag+para+gato",
+      "Price": 15.99,
+      "Mark": "Odokele",
+      "Stock": 10
+    },
+    {
+      "Id": 99,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 11,
+      "Title": "Correa larga reflectante para gatos",
+      "Description": "Longitud de la correa: 15 pies. Esta correa larga para gatos es perfecta para jugar con mascotas, entrenamiento, campamento, senderismo, correr, viajes, movimiento libre sin restricciones, y controla a las mascotas para evitar pérdidas dentro de tu línea de visión",
+      "ImagePath": "https://placehold.co/600x400?text=Correa+larga+reflectante+para+gatos",
+      "Price": 8.99,
+      "Mark": "Rypet ",
+      "Stock": 10
+    },
+    {
+      "Id": 100,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Arena para gatos de alta calidad",
+      "Description": "Ayuda a traer gatos problemáticos de vuelta a la caja de arena. Sirve como una gran arena de entrenamiento para gatitos.Arena natural para gatos que es dura y se puede recoger y 99 % libre de polvo. Ideal para tamizar y cajas de basura mecánicas. Contiene clorofila natural para un control superior del olor.",
+      "ImagePath": "https://placehold.co/600x400?text=Arena+para+gatos+de+alta+calidad",
+      "Price": 20.99,
+      "Mark": "Dr. Elsey's",
+      "Stock": 10
+    },
+    {
+      "Id": 101,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Nueva arena antibacteriana para gatos",
+      "Description": "Mata el 99.9% de las bacterias que causan olor: mantén tu hogar sanitario con la primera y única arena antibacteriana aglutinante en los Estados Unidos que mata el 99.9% de las bacterias que causan olores y evita el crecimiento de olores bacterianos para una caja de arena limpia",
+      "ImagePath": "https://placehold.co/600x400?text=Nueva+arena+antibacteriana+para+gatos",
+      "Price": 13.38,
+      "Mark": "Cat's Pride",
+      "Stock": 10
+    },
+    {
+      "Id": 102,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Arena ligera para gatos",
+      "Description": "Arena para gatos ligera y sencillamente sin aroma: recomendada por veterinarios, la arena para gatos Fresh Step Advanced Lightweight Simply Unscented está libre de fragancias y tintes añadidos; el embalaje puede variar",
+      "ImagePath": "https://placehold.co/600x400?text=Arena+ligera+para+gatos",
+      "Price": 21.04,
+      "Mark": "Fresh Step",
+      "Stock": 10
+    },
+    {
+      "Id": 103,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Cortaúñas para perro profesionales Pet Republique ® con filtro opcional, para gatos y cachorros pequeños",
+      "Description": "Cortadores de uñas profesionales para gatos: uno de los mejores cortaúñas para gatos/cortaúñas de animales pequeños profesionales del mercado. Estos cortaúñas están diseñados para razas pequeñas: gatitos, gatos, conejos, cachorros, chinchillas, cobayas y mucho más",
+      "ImagePath": "https://placehold.co/600x400?text=Corta%C3%BA%C3%B1as+para+perro+profesionales+Pet+R",
+      "Price": 6.99,
+      "Mark": "Pet Republique",
+      "Stock": 10
+    },
+    {
+      "Id": 104,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Removedor de caspa de gato",
+      "Description": "Allerpet reduce significativamente los síntomas de alérgenos. Sin conservantes ni productos químicos agresivos. Deja la piel y el pelaje con una sensación suave y acondicionada. Los expertos recomiendan usar Allerpet en tu mascota una vez a la semana. No requiere enjuague",
+      "ImagePath": "https://placehold.co/600x400?text=Removedor+de+caspa+de+gato",
+      "Price": 15.98,
+      "Mark": "Allerpet",
+      "Stock": 10
+    },
+    {
+      "Id": 105,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Guantes de baño y cepillos patentados, suaves y eficaces para quitar mascotas",
+      "Description": "Elimina sin esfuerzo el desprendimiento, los tapetes y los enredos con nuestros guantes de aseo para perros. Estos guantes también proporcionan un masaje relajante, promoviendo una mejor circulación sanguínea y un pelaje más saludable para tus mascotas",
+      "ImagePath": "https://placehold.co/600x400?text=Guantes+de+ba%C3%B1o+y+cepillos+patentados%2C+s",
+      "Price": 16.99,
+      "Mark": "Pet Magasin",
+      "Stock": 10
+    },
+    {
+      "Id": 106,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 12,
+      "Title": "Rollo ChomChom, para remover el pelo de perros, gatos, mascotas",
+      "Description": "Nailon, quita fácilmente pelo de mascotas, no requiere adhesivos ni cinta adhesiva, no necesita pilas, 100% reutilizable, respetuoso con el medio ambiente",
+      "ImagePath": "https://placehold.co/600x400?text=Rollo+ChomChom%2C+para+remover+el+pelo+de+",
+      "Price": 24.99,
+      "Mark": "ChomChom Roller",
+      "Stock": 10
+    },
+    {
+      "Id": 107,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "Transportador suave para mascotas para gatos medianos y grandes",
+      "Description": "Fácil de meter al gato. La entrada superior de tamaño completo hace que sea muy fácil poner un gato sin cooperar en ella",
+      "ImagePath": "https://placehold.co/600x400?text=Transportador+suave+para+mascotas+para+g",
+      "Price": 35.99,
+      "Mark": "Petisfan",
+      "Stock": 10
+    },
+    {
+      "Id": 108,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "Caja de arena para gatos",
+      "Description": "La caja de arena para gatos IRIS con tapa abierta está diseñada para ofrecer a los gatos un montón de espacio y rápido acceso. La caja de arena para gatos IRIS incluye una pala a juego y un interior pulido para una fácil limpieza",
+      "ImagePath": "https://placehold.co/600x400?text=Caja+de+arena+para+gatos",
+      "Price": 13.6,
+      "Mark": "IRIS",
+      "Stock": 10
+    },
+    {
+      "Id": 109,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "Colección de cuencos de comida para gatos/comedero y bebedero para mascotas",
+      "Description": "Incluye 1 plato verde azulado y 1 rosa claro, cada uno tiene capacidad para 6.5 onzas, El moderno diseño de pedestal promueve una postura de alimentación natural y saludable y se ve muy bien en tu hogar, Diseño ovalado apto para bigotes y parte delantera de fácil acceso: mejor ergonomía para tu compañero de gato",
+      "ImagePath": "https://placehold.co/600x400?text=Colecci%C3%B3n+de+cuencos+de+comida+para+gato",
+      "Price": 7.99,
+      "Mark": "Kitty City",
+      "Stock": 10
+    },
+    {
+      "Id": 110,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "Traje profesional de recuperación quirúrgica para gatos",
+      "Description": "Traje de recuperación para gatos para heridas abdominales: el traje de recuperación protegerá las heridas, manchas, vendajes, puntos calientes, condiciones de la piel e incontinencia de tu mascota. Evita lamer y rascarse, mantener a los gatos tranquilos y aliviar el estrés. Y reduce el riesgo de infección al mantener la herida protegida de forma segura",
+      "ImagePath": "https://placehold.co/600x400?text=Traje+profesional+de+recuperaci%C3%B3n+quir%C3%BAr",
+      "Price": 14.99,
+      "Mark": "LIANZIMAU",
+      "Stock": 10
+    },
+    {
+      "Id": 111,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "Transportador plegable para gatos de viaje",
+      "Description": "Puerta de apertura lateral de diseño original que se abre fácilmente y los gatos se sienten cómodos entrando, Incluye 1 gris con portador de puerta marrón y 1 cama extra cómoda para mascotas, Fácil de limpiar, se pliega fácil y compactamente. La cama para mascotas es lavable a máquina y apta para secadora",
+      "ImagePath": "https://placehold.co/600x400?text=Transportador+plegable+para+gatos+de+via",
+      "Price": 40.46,
+      "Mark": "SportPet Designs",
+      "Stock": 10
+    },
+    {
+      "Id": 112,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "Alimentador automático para gatos para 2 gatos, dispensador de comida para gatos de 3 litros",
+      "Description": "Alimentación equilibrada de doble cara: el comedero automático Surdy para dos gatos garantiza una distribución uniforme de alimentos para mascotas en ambos lados, eliminando cualquier alimentación desigual. Su sistema de alimentación dual crea un ambiente tranquilo para tus mascotas, eliminando las preocupaciones de la competencia alimentaria",
+      "ImagePath": "https://placehold.co/600x400?text=Alimentador+autom%C3%A1tico+para+gatos+para+2",
+      "Price": 59.99,
+      "Mark": "Surdy",
+      "Stock": 10
+    },
+    {
+      "Id": 113,
+      "CategoryOneId": 1,
+      "CategoryTwoId": 13,
+      "Title": "2 cuencos antideslizantes de acero inoxidable para gatos",
+      "Description": "Acero inoxidable resistente y valioso seleccionado: material de alta calidad y sin BPA que garantiza que el cuenco para gatos no se deforme si tu gato o cachorro muerde o juega. La aplicación de una excelente tecnología de pulido mantiene los cuencos de acero inoxidable para gatos limpios con un ciclo de vida más largo del producto. Cuencos de acero inoxidable para comida y agua",
+      "ImagePath": "https://placehold.co/600x400?text=2+cuencos+antideslizantes+de+acero+inoxi",
+      "Price": 7.99,
+      "Mark": "Serentive",
+      "Stock": 10
+    },
+    {
+      "Id": 114,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 14,
+      "Title": "Comida premium para peces Koi",
+      "Description": "Proporciona las proteínas animales y vegetales necesarias, Con un 35% de proteínas, la harina de pescado es el primer ingrediente y apoya el desarrollo de tejidos y músculos, Ideal para koi, peces dorados y otros peces de estanque",
+      "ImagePath": "https://placehold.co/600x400?text=Comida+premium+para+peces+Koi",
+      "Price": 24.36,
+      "Mark": "Kaytee",
+      "Stock": 10
+    },
+    {
+      "Id": 115,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 14,
+      "Title": "Palos de estanque Tetrapond",
+      "Description": "Una dieta de mantenimiento ideal para tu pez dorado ornamental koi y otras especies de peces al aire libre, DIETA DIARIA Proporciona nutrición para la longevidad energética y la salud general",
+      "ImagePath": "https://placehold.co/600x400?text=Palos+de+estanque+Tetrapond",
+      "Price": 22.47,
+      "Mark": "Tetra",
+      "Stock": 10
+    },
+    {
+      "Id": 116,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 14,
+      "Title": "Aqueon Copos tropicales",
+      "Description": "Ingredientes y colores naturales con vitaminas, minerales y oligonutrientes añadidos, Ideal para pez ángel, especies de tetra, especies de púas, rasboras, danios, peces de nube blanca, peces arcoíris, guppies elegantes, Platies, colas de espada, bagre corydoras, la mayoría de loachas, kribensis",
+      "ImagePath": "https://placehold.co/600x400?text=Aqueon+Copos+tropicales",
+      "Price": 4.29,
+      "Mark": "Aqueon",
+      "Stock": 10
+    },
+    {
+      "Id": 117,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 14,
+      "Title": "Alimento para peces de 2 libras, mini fórmula de crecimiento para peces de colores",
+      "Description": "Condición superior del espectáculo, alimentos koi, incluyendo proteínas, carbohidratos y aminoácidos de alta calidad, los gránulos flotantes se ablandan rápidamente para una fácil digestión. Mejora la salud y la vitalidad de tus peces koi y estanque con nuestro alimento para peces de pellets de estanque de alta calidad",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+para+peces+de+2+libras%2C+mini+f%C3%B3",
+      "Price": 18.0,
+      "Mark": "Blue Ridge Fish Hatchery",
+      "Stock": 10
+    },
+    {
+      "Id": 118,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 14,
+      "Title": "Obleas de algas",
+      "Description": "Obleas de hundimiento con algas concentradas Proporciona una dieta equilibrada completa para los consumidores de algas, Suplemento totalmente vegetal: alimento vegetariano para pescado fácilmente digerido que es naturalmente alto en fibra",
+      "ImagePath": "https://placehold.co/600x400?text=Obleas+de+algas",
+      "Price": 4.5,
+      "Mark": "TetraVeggie",
+      "Stock": 10
+    },
+    {
+      "Id": 119,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 14,
+      "Title": "Suplemento de fórmula marina",
+      "Description": "Fórmula de pescado marino, pellets de hundimiento de 0.039 in - 5.29 oz, Sin conservantes, saborizantes ni colorantes artificiales",
+      "ImagePath": "https://placehold.co/600x400?text=Suplemento+de+f%C3%B3rmula+marina",
+      "Price": 12.99,
+      "Mark": "New Life Spectrum",
+      "Stock": 10
+    },
+    {
+      "Id": 120,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 15,
+      "Title": "Tetra Acuario LED completo de 29 galones",
+      "Description": "KIT DE ACUARIO DE VIDRIO: Acuario de vidrio con capó con bisagras de bajo perfil que alberga LED blancos de bajo consumo para crear un efecto de brillo submarino natural, viene con el filtro de alimentación Tetra Whisper PF 30 con cartucho de filtro Tetra Large Bio-Bag",
+      "ImagePath": "https://placehold.co/600x400?text=Tetra+Acuario+LED+completo+de+29+galones",
+      "Price": 166.32,
+      "Mark": "Tetra",
+      "Stock": 10
+    },
+    {
+      "Id": 121,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 15,
+      "Title": "Kits de iniciación de pecera Betta de cristal",
+      "Description": "Tanque de peces de 2 galones con filtro calentador y luz, tanque de peces pequeño autolimpiante",
+      "ImagePath": "https://placehold.co/600x400?text=Kits+de+iniciaci%C3%B3n+de+pecera+Betta+de+cr",
+      "Price": 44.99,
+      "Mark": "Pronetcus",
+      "Stock": 10
+    },
+    {
+      "Id": 122,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 15,
+      "Title": "Tiras de prueba para tanque de peces de acuario",
+      "Description": "Es importante probar tu acuario semanalmente para verificar la buena calidad del agua con las tiras reactivas PULACO Aquarium, tiras 6 en 1 con tabla de comparación colorida, adecuadas tanto para peceras de agua dulce como de agua salada",
+      "ImagePath": "https://placehold.co/600x400?text=Tiras+de+prueba+para+tanque+de+peces+de+",
+      "Price": 9.99,
+      "Mark": "PULACO ",
+      "Stock": 10
+    },
+    {
+      "Id": 123,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 15,
+      "Title": "Kit de herramientas de acuario de 15 pulgadas",
+      "Description": "La herramienta Aquascape para plantas acuáticas está hecha de acero inoxidable de alta calidad con la última tecnología de pintura en aerosol, no se decolora fácilmente, antioxidante y anticorrosión, duradera",
+      "ImagePath": "https://placehold.co/600x400?text=Kit+de+herramientas+de+acuario+de+15+pul",
+      "Price": 18.99,
+      "Mark": "Liveek",
+      "Stock": 10
+    },
+    {
+      "Id": 124,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 15,
+      "Title": "Tanque de peces grande, acuario de cristal, estilo península rectangular",
+      "Description": "Hecho de vidrio de alta calidad con bajo contenido de hierro que cuenta con una transmisión de luz del 93% o más, creando un ambiente acuático vívido y claro",
+      "ImagePath": "https://placehold.co/600x400?text=Tanque+de+peces+grande%2C+acuario+de+crist",
+      "Price": 179.54,
+      "Mark": "Firaq",
+      "Stock": 10
+    },
+    {
+      "Id": 125,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 16,
+      "Title": "Herramientas de limpieza de peceras",
+      "Description": "El limpiador de peceras 6 en 1 está hecho de material plástico ABS de alta calidad y duradero, que tiene un excelente aislamiento y resistencia a la corrosión. No se dobla ni se oxida fácilmente después de usarlo durante mucho tiempo",
+      "ImagePath": "https://placehold.co/600x400?text=Herramientas+de+limpieza+de+peceras",
+      "Price": 19.99,
+      "Mark": "SVECKE",
+      "Stock": 10
+    },
+    {
+      "Id": 126,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 16,
+      "Title": "Limpiador de grava para acuario",
+      "Description": "El kit de aspiradora de grava de acuario es un limpiador de acuario multifuncional que utiliza (adopta) el principio de diseño de sifón, que incluye el acuario, lavado de arena de acuario, raspado de algas, limpieza de excrementos de peces, residuos residuales de acuario y cambio de agua del acuario. El cambio rápido de agua da a los peces (proporciona) un ambiente de vida limpio y cómodo en el acuario",
+      "ImagePath": "https://placehold.co/600x400?text=Limpiador+de+grava+para+acuario",
+      "Price": 19.69,
+      "Mark": "QZQ",
+      "Stock": 10
+    },
+    {
+      "Id": 127,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 16,
+      "Title": "Spray limpiador de acuario botella de 8 onzas",
+      "Description": "Contiene una (1) botella de limpiador de acuario API SAFE and EASY de 8 onzas, Limpia el vidrio del acuario tanto dentro como fuera de acuarios de vidrio y acrílico",
+      "ImagePath": "https://placehold.co/600x400?text=Spray+limpiador+de+acuario+botella+de+8+",
+      "Price": 6.57,
+      "Mark": "API",
+      "Stock": 10
+    },
+    {
+      "Id": 128,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 16,
+      "Title": "Limpiador magnético flotante 2 en 1 para acuario",
+      "Description": "Limpia los tanques de agua dulce o salada con el limpiador de vidrio magnético patentado de doble cara para acuario que pasa de un limpiador a otro sin que llegues al tanque",
+      "ImagePath": "https://placehold.co/600x400?text=Limpiador+magn%C3%A9tico+flotante+2+en+1+para",
+      "Price": 49.98,
+      "Mark": "FL!PPER",
+      "Stock": 10
+    },
+    {
+      "Id": 129,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 16,
+      "Title": "Limpiador de grava para acuarios",
+      "Description": "Introduce bacterias saludables y naturales que eliminan biológicamente el exceso de desechos de pescado, alimentos para peces, toxinas, olores y otros desechos orgánicos, Extiende el tiempo entre los cambios de agua y las limpiezas de grava al vacío eliminando los desechos orgánicos que se acumulan en su acuario. También ayuda a corregir la sobrealimentación",
+      "ImagePath": "https://placehold.co/600x400?text=Limpiador+de+grava+para+acuarios",
+      "Price": 15.95,
+      "Mark": "Natural Rapport",
+      "Stock": 10
+    },
+    {
+      "Id": 130,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 16,
+      "Title": "Herramientas de limpieza para acuarios, kit de limpieza de peceras con mango largo ajustable",
+      "Description": "El kit de herramientas de limpieza 5 en 1 ayuda a mantener el tanque limpio y limpio sin mojarse las manos. Hizo que el trabajo de limpieza sea más fácil, El mango telescópico puede extenderse hasta 32.5 pulgadas, lo suficientemente largo como para limpiar el tanque profundo",
+      "ImagePath": "https://placehold.co/600x400?text=Herramientas+de+limpieza+para+acuarios%2C+",
+      "Price": 179.54,
+      "Mark": "AQUANEAT ",
+      "Stock": 10
+    },
+    {
+      "Id": 131,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 17,
+      "Title": "Adornos de decoración de pecera, tronco de árbol hueco de resina, decoraciones de simulación de arrecife de coral con plantas, fondo de pecera 3D para pecera",
+      "Description": "Permanece en su lugar: estas decoraciones de acuario incluyen tronco de árbol hueco de resina, coral y hierba acuática tienen una base plana, y es completamente hueca, se asienta de forma estable en la parte inferior del tanque, sin flotar. Ponlo en agua y listo. No se necesita más mantenimiento",
+      "ImagePath": "https://placehold.co/600x400?text=Adornos+de+decoraci%C3%B3n+de+pecera%2C+tronco+",
+      "Price": 16.99,
+      "Mark": "SUPTEC",
+      "Stock": 10
+    },
+    {
+      "Id": 132,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 17,
+      "Title": "Madera flotante de coral natural para decoración de acuario",
+      "Description": "Madera de deriva natural: cada pieza de madera flotante tiene una forma distintiva y se ve diferente desde varios ángulos. Cada pieza es única. Las imágenes que se muestran son solo algunas de las maderas flotantes, lo que obtienes puede ser diferente de las imágenes mostradas",
+      "ImagePath": "https://placehold.co/600x400?text=Madera+flotante+de+coral+natural+para+de",
+      "Price": 26.11,
+      "Mark": "majoywoo",
+      "Stock": 10
+    },
+    {
+      "Id": 133,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 17,
+      "Title": "Colorido arrecife de coral para decoración de acuarios",
+      "Description": "Puntos ocultos favoritos de los peces: arrecife de coral realista con dos pequeñas cuevas y salpicado de dos plantas acuáticas, recreando perfectamente el entorno natural. Cuando se coloca en el acuario, ni siquiera podrá reconocer que en realidad está hecho de resina. A tus peces les encantará el medio ambiente que proporciona, donde pueden tejer, jugar y esconderse",
+      "ImagePath": "https://placehold.co/600x400?text=Colorido+arrecife+de+coral+para+decoraci",
+      "Price": 16.99,
+      "Mark": "majoywoo ",
+      "Stock": 10
+    },
+    {
+      "Id": 134,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 17,
+      "Title": "Accesorios para pecera, plantas verdes, 10 piezas de decoración de pecera verde",
+      "Description": "Decoraciones de acuario verde: 10 piezas verdes y diferentes estilos de acuario plantas verdes: (plantas pequeñas de 2 a 4.9 pulgadas y 2 plantas grandes: 7.9 pulgadas)",
+      "ImagePath": "https://placehold.co/600x400?text=Accesorios+para+pecera%2C+plantas+verdes%2C+",
+      "Price": 6.99,
+      "Mark": "PietyPet",
+      "Stock": 10
+    },
+    {
+      "Id": 135,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 17,
+      "Title": "Piedras que brillan en la oscuridad, 500 piedras azules que brillan en la oscuridad",
+      "Description": "Puedes llevar estas piedras ligeras que brillan en la oscuridad a tu campamento para construir una noche maravillosa, las piedras se pueden utilizar para hacer que un camino, acuario o jardín sea hermoso y un poco romántico",
+      "ImagePath": "https://placehold.co/600x400?text=Piedras+que+brillan+en+la+oscuridad%2C+500",
+      "Price": 22.98,
+      "Mark": "GeniusCells",
+      "Stock": 10
+    },
+    {
+      "Id": 136,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 18,
+      "Title": "Luz LED sumergible para acuario de 24/7 modos",
+      "Description": "Luz naranja degradado (amanecer) de 6 am a 8 am; luz blanca degradada de 8 am a 6 pm; luz azul degradado (luz de luna) de 6 pm a 10:50 pm; las luces de acuario de iluminación 24/7 están apagadas en otros períodos de tiempo. El período de tiempo predeterminado general puede retrasarse o avanzarse",
+      "ImagePath": "https://placehold.co/600x400?text=Luz+LED+sumergible+para+acuario+de+24%2F7+",
+      "Price": 15.99,
+      "Mark": "hygger",
+      "Stock": 10
+    },
+    {
+      "Id": 137,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 18,
+      "Title": "Sustrato de acuario de plantas y camarones 5 libras",
+      "Description": "Gran opción para una variedad de plantas de agua dulce, camarones, caracoles y peces tropicales, Promueve el crecimiento de una amplia variedad de plantas de agua dulce",
+      "ImagePath": "https://placehold.co/600x400?text=Sustrato+de+acuario+de+plantas+y+camaron",
+      "Price": 11.03,
+      "Mark": "Aqueon",
+      "Stock": 10
+    },
+    {
+      "Id": 138,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 18,
+      "Title": "Pond MELAFIX Remedio para infección bacteriana para Peces",
+      "Description": "Utilízalo para introducir nuevos peces en el acuario, Para acuarios de agua dulce y salada, Disponible en botellas de 4 y 8 oz",
+      "ImagePath": "https://placehold.co/600x400?text=Pond+MELAFIX+Remedio+para+infecci%C3%B3n+bact",
+      "Price": 7.27,
+      "Mark": "API",
+      "Stock": 10
+    },
+    {
+      "Id": 139,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 18,
+      "Title": "Termómetro digital para pecera, pantalla LED",
+      "Description": "Pantalla LED HD: el termómetro de acuario PAIZOO adopta una pantalla LED para mostrar la temperatura, el LED puede proporcionar un amplio ángulo de visión y el color está saturado, es más fácil leer los datos sin importar el día o la noche. Protección ambiental ecológica y ahorro de energía",
+      "ImagePath": "https://placehold.co/600x400?text=Term%C3%B3metro+digital+para+pecera%2C+pantalla",
+      "Price": 11.99,
+      "Mark": "PAIZOO",
+      "Stock": 10
+    },
+    {
+      "Id": 140,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 18,
+      "Title": "Grava para acuario, rosa/verde/azul fluorescente",
+      "Description": "Grava de acuario: La grava de acuario GloFish crea una base colorida para todos tus adornos de GloFish, Muchos colores: Elige rosa, verde, blanco, negro con reflejos fluorescentes o una mezcla de colores",
+      "ImagePath": "https://placehold.co/600x400?text=Grava+para+acuario%2C+rosa%2Fverde%2Fazul+fluo",
+      "Price": 22.98,
+      "Mark": "GloFish",
+      "Stock": 10
+    },
+    {
+      "Id": 141,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 19,
+      "Title": "Mini bomba de agua sumergible para acuario pecera",
+      "Description": "El motor confiable y duradero no produce mucho ruido, lo que te da un ambiente silencioso. Esta bomba sumergible está diseñada para acuarios de tamaño pequeño a mediano, pecera, estanque, fuentes de mesa, jardines acuáticos y sistemas hidropónicos",
+      "ImagePath": "https://placehold.co/600x400?text=Mini+bomba+de+agua+sumergible+para+acuar",
+      "Price": 9.99,
+      "Mark": "PULACO",
+      "Stock": 10
+    },
+    {
+      "Id": 142,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 19,
+      "Title": "Filtro interno sumergible para acuario",
+      "Description": "Este filtro interno de pecera es un sistema que crea un ambiente de vida limpio y fresco para tus encantadores peces. 8 vatios es perfecto para acuarios grandes de 10 a 50 galones",
+      "ImagePath": "https://placehold.co/600x400?text=Filtro+interno+sumergible+para+acuario",
+      "Price": 20.99,
+      "Mark": "NO.17",
+      "Stock": 10
+    },
+    {
+      "Id": 143,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 19,
+      "Title": "Bomba de aire para acuario, ultra silenciosa",
+      "Description": "Potente bomba de aireador y conservación de energía: la bomba de aire AQQA para pecera de 6 vatios equipada con una bomba de alta calidad, la bomba ofrece una salida estable mientras conserva energía para un rendimiento óptimo. Volumen de aire para tanque de hasta 120 galones, la presión máxima es de 26 Kpa y el volumen máximo de aire es de 150 GPH, se puede conectar fácilmente a diferentes tipos de piedras de aire, se puede utilizar para peceras más grandes, acuarios",
+      "ImagePath": "https://placehold.co/600x400?text=Bomba+de+aire+para+acuario%2C+ultra+silenc",
+      "Price": 36.99,
+      "Mark": "AQQA",
+      "Stock": 10
+    },
+    {
+      "Id": 144,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 19,
+      "Title": "Filtro de hilo dental para filtros de pecera",
+      "Description": "Esta almohadilla de filtro única de 2 capas en 1 combina una almohadilla de filtro típica de acuario con una almohadilla de pulido de agua. La construcción de fibra abierta de la capa superior atrapa partículas más grandes, mientras que la red de fibra densa de la capa inferior atrapa partículas más finas, trabajando en conjunto para producir agua limpia y clara en tu acuario",
+      "ImagePath": "https://placehold.co/600x400?text=Filtro+de+hilo+dental+para+filtros+de+pe",
+      "Price": 19.99,
+      "Mark": "Aquatic Experts",
+      "Stock": 10
+    },
+    {
+      "Id": 145,
+      "CategoryOneId": 2,
+      "CategoryTwoId": 19,
+      "Title": "Bomba aireadora de bomba de aire para acuario con ventosa",
+      "Description": "La bomba de aire de acuario mejorada de bedee viene con una pequeña piedra de aire porosa, que proporciona abundantes burbujas para la pecera de 1 a 15 galones, para aumentar el contenido de oxígeno del agua de la pecera. La bomba de aire para peceras crea un ambiente vívido y peculiar para tu pecera, que es la herramienta perfecta para mejorar la salud de los peces en casa",
+      "ImagePath": "https://placehold.co/600x400?text=Bomba+aireadora+de+bomba+de+aire+para+ac",
+      "Price": 24.99,
+      "Mark": "Bedee",
+      "Stock": 10
+    },
+    {
+      "Id": 146,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 20,
+      "Title": "Corazones de cáñamo orgánico",
+      "Description": "Nuestros corazones de cáñamo orgánico ofrecen la proporción perfecta de ácidos grasos Omega-6 a Omega-3 que a tu ave le encantarán. El cáñamo tiene efectos calmantes naturales y puede brindar relajación a las aves que luchan contra la inflamación y el dolor en las articulaciones",
+      "ImagePath": "https://placehold.co/600x400?text=Corazones+de+c%C3%A1%C3%B1amo+org%C3%A1nico",
+      "Price": 19.99,
+      "Mark": "Hemp Well",
+      "Stock": 10
+    },
+    {
+      "Id": 147,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 20,
+      "Title": "Wild Bird Food",
+      "Description": "Excelente comida de alta energía para alimentación durante todo el año, Atrae cardenales, garabatos, trepadores, pájaros carpinteros y otros pájaros cantores de colores, La mezcla de frutos secos y frutas contiene una rica mezcla de semillas y granos con frutos secos y piezas de fruta añadidos",
+      "ImagePath": "https://placehold.co/600x400?text=Wild+Bird+Food",
+      "Price": 14.99,
+      "Mark": "Kaytee",
+      "Stock": 10
+    },
+    {
+      "Id": 148,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 20,
+      "Title": "Mezcla natural alimento para pájaros, Beige",
+      "Description": "Fabricado en los Estados Unidos específicamente para periquitos, periquitos, loros, canarios y pinzones, Saludable y delicioso. Alimento para aves fresco, saludable y natural hecho con verduras. Formulado con precisión con las vitaminas, minerales y aminoácidos esenciales que tu ave necesita todos los días para una dieta equilibrada",
+      "ImagePath": "https://placehold.co/600x400?text=Mezcla+natural+alimento+para+p%C3%A1jaros%2C+Be",
+      "Price": 15.75,
+      "Mark": "ZuPreem",
+      "Stock": 10
+    },
+    {
+      "Id": 149,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 20,
+      "Title": "ropical Fruit Nutri-Berries Alimento para pájaros para mascotas",
+      "Description": "Alimento para loros forrajeros nutricionalmente completos: formulado por los mejores veterinarios aviares y nutricionistas aviares; ofrece el doble de alimento de pellets y la misma nutrición completa",
+      "ImagePath": "https://placehold.co/600x400?text=ropical+Fruit+Nutri-Berries+Alimento+par",
+      "Price": 37.99,
+      "Mark": "LAFEBER'S",
+      "Stock": 10
+    },
+    {
+      "Id": 150,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 20,
+      "Title": "Alimento para pájaros criador, nibles, 44 onzas",
+      "Description": "Sin azúcares ni colores añadidos, 100% comestible y sin animales por productos, Formulado científicamente",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+para+p%C3%A1jaros+criador%2C+nibles%2C+4",
+      "Price": 15.92,
+      "Mark": "RoudyBush",
+      "Stock": 10
+    },
+    {
+      "Id": 151,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 20,
+      "Title": "Comida prémium para periquitos, tarro de 5 libras",
+      "Description": "Una mejor manera de alimentar a tus pájaros, Ingredientes: Mijo, granos de roble, semillas de pasto canario, maíz molido, trigo molido, granos de avena molida, harina de soja, vitaminas y minerales, Especies Primarias: Periquitos y periquitos de hierba (bourjes, turquesinas, cofre escarlata y elegantes",
+      "ImagePath": "https://placehold.co/600x400?text=Comida+pr%C3%A9mium+para+periquitos%2C+tarro+de",
+      "Price": 18.8,
+      "Mark": "Better Bird",
+      "Stock": 10
+    },
+    {
+      "Id": 152,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 21,
+      "Title": "Jaula de pájaros de vuelo de 30 pulgadas",
+      "Description": "Amplio espacio: mide 29.9 pulgadas de largo x 18.1 pulgadas de ancho x 17.9 pulgadas de alto, con un espacio de rejilla de 0.4 pulgadas, esta jaula de vuelo para pájaros ofrece un espacio de vida espacioso y cómodo para que tus aves se muevan libremente, descansen y estiren sus alas. Permítales disfrutar de un movimiento libre y cómodo dentro de un área limitada",
+      "ImagePath": "https://placehold.co/600x400?text=Jaula+de+p%C3%A1jaros+de+vuelo+de+30+pulgadas",
+      "Price": 38.24,
+      "Mark": "VEVOR",
+      "Stock": 10
+    },
+    {
+      "Id": 153,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 21,
+      "Title": "Jaula de hierro forjado",
+      "Description": "Nuestra jaula de vuelo es el hogar perfecto para múltiples periquitos, canarios o pinzones, Se incluyen 4 tazas dobles de plástico y 3 perchas de madera, La rejilla inferior y el cajón se deslizan hacia fuera para una limpieza cómoda",
+      "ImagePath": "https://placehold.co/600x400?text=Jaula+de+hierro+forjado",
+      "Price": 135.25,
+      "Mark": "PH Prevue Hendryx",
+      "Stock": 10
+    },
+    {
+      "Id": 154,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 21,
+      "Title": "Granero estilo jaula para pájaros",
+      "Description": "Diseñado para loros, cacatúas y otras aves pequeñas y medianas, Una puerta principal grande más una puerta de percha de aterrizaje, Diseño decorativo de techo estilo granero, Incluye 2 vasos de plástico y 3 perchas",
+      "ImagePath": "https://placehold.co/600x400?text=Granero+estilo+jaula+para+p%C3%A1jaros",
+      "Price": 86.05,
+      "Mark": "Prevue Pet Products",
+      "Stock": 10
+    },
+    {
+      "Id": 155,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 21,
+      "Title": "Jaula para pájaros, color verde azulado",
+      "Description": "Diseñado para pájaros pequeños como pinzones, canarios y periquitos, 2 unidades de plástico con capucha de 2 onzas. Tazas, 2 perchas de madera, rejilla inferior y bandeja extraíble incluidas, La espaciosa línea superior de cúpula proporciona espacio adicional para colgar juguetes",
+      "ImagePath": "https://placehold.co/600x400?text=Jaula+para+p%C3%A1jaros%2C+color+verde+azulado",
+      "Price": 39.55,
+      "Mark": "Prevue Pet Products",
+      "Stock": 10
+    },
+    {
+      "Id": 156,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 21,
+      "Title": "Small Periquito Jaula",
+      "Description": "Puerta corredera principal hacia arriba y dos puertas más con acceso a tazas de alimentación, Rejilla inferior y una bandeja fácil de deslizar, Espacio entre barras de 1/2 pulgada, Fácil de montar con cierre estilo clip/gancho",
+      "ImagePath": "https://placehold.co/600x400?text=Small+Periquito+Jaula",
+      "Price": 32.32,
+      "Mark": "YML",
+      "Stock": 10
+    },
+    {
+      "Id": 157,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 22,
+      "Title": "Alimentador de agua para pájaros",
+      "Description": "Clip de bebedero para bebedero hecho de plástico de alta calidad, no tóxico y seguro, 4 unidades/embalaje, la longitud del comedero de agua para pájaros es de 4.7 in y el diámetro es de 1.6 in, Fácil de usar e instalar. Simplemente llena la botella boca abajo con agua, cubre la tapa, luego dale la vuelta rápidamente para que se pueda colgar dentro o fuera de la jaula",
+      "ImagePath": "https://placehold.co/600x400?text=Alimentador+de+agua+para+p%C3%A1jaros",
+      "Price": 9.99,
+      "Mark": "Lamoutor",
+      "Stock": 10
+    },
+    {
+      "Id": 158,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 22,
+      "Title": "Comida para pájaros, tazas de acero inoxidable, soporte de percha de madera, comedero colgante, fuente de alimentación y riego para periquitos, conures, cacatúas, periquitos, loros",
+      "Description": "Material de alta calidad: nuestro juego de cuencos de comida para pájaros está hecho de madera natural y acero inoxidable, que soporta el desgaste y resiste el óxido y las grietas. Este producto es una excelente opción para alimentar a tus pájaros domésticos, lo que crea un ambiente amigable para que tu mascota crezca",
+      "ImagePath": "https://placehold.co/600x400?text=Comida+para+p%C3%A1jaros%2C+tazas+de+acero+inox",
+      "Price": 16.98,
+      "Mark": "Tfwadmx",
+      "Stock": 10
+    },
+    {
+      "Id": 159,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 22,
+      "Title": "Tazón de agua para alimentos para mascotas con soporte de abrazadera",
+      "Description": "Hecho de acero inoxidable, resistente al óxido y difícil de romper, Fácil de limpiar y mantener el agua fresca, Se retira fácilmente del soporte, Gran tazón de comida o agua para la jaula, El cuenco encaja de forma segura en el soporte y lo suficientemente apretado. No tienes que preocuparte por que tu mascota derriba el tazón",
+      "ImagePath": "https://placehold.co/600x400?text=Taz%C3%B3n+de+agua+para+alimentos+para+mascot",
+      "Price": 11.99,
+      "Mark": "Wontee",
+      "Stock": 10
+    },
+    {
+      "Id": 160,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 22,
+      "Title": "Vasos de alimentación de pájaros, comedero de periquitos colgante de acero inoxidable",
+      "Description": "Material de alta calidad: el comedero para pájaros para jaula está hecho de acero inoxidable de alta calidad, resistente al óxido y a la corrosión, resistente y duradero, fácil de limpiar. Las perchas para pájaros están hechas de madera de manzana natural y la superficie rugosa del poste de troncos puede ayudar al pájaro a ejercitar sus pies sin dañar al pájaro",
+      "ImagePath": "https://placehold.co/600x400?text=Vasos+de+alimentaci%C3%B3n+de+p%C3%A1jaros%2C+comede",
+      "Price": 14.99,
+      "Mark": "ZUOLUN",
+      "Stock": 10
+    },
+    {
+      "Id": 161,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 22,
+      "Title": "Perca de madera para pájaros con 3 tazas de acero inoxidable para alimentación de pájaros",
+      "Description": "Materiales de alta calidad: el juego de cuencos de alimentación para pájaros está hecho de madera y acero inoxidable, resistente a la corrosión, duradero y fácil de limpiar. El juego de tazas de alimentación puede satisfacer las necesidades de las aves para alimentar, descansar, beber, hacer ejercicio, masticar y otras funciones",
+      "ImagePath": "https://placehold.co/600x400?text=Perca+de+madera+para+p%C3%A1jaros+con+3+tazas",
+      "Price": 15.99,
+      "Mark": "FrgKbTm",
+      "Stock": 10
+    },
+    {
+      "Id": 162,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 23,
+      "Title": "Juguete de pájaro de campana pequeña",
+      "Description": "Cuenta con campana brillante con cadena de tracción, Desafiante mental y físicamente, Hecho de acrílico, Activa el cuerpo, la mente y el alma de tu pájaro, Adecuado para periquitos, cacatúas y otras aves de tamaño similar",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+de+p%C3%A1jaro+de+campana+peque%C3%B1a",
+      "Price": 4.99,
+      "Mark": "JW",
+      "Stock": 10
+    },
+    {
+      "Id": 163,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 23,
+      "Title": "Juguetes para pájaros, tapete de hierba de Conure, juguetes de pared para forrajería, trituradora de loros, juguetes para cacatúa",
+      "Description": "Material seguro: la alfombrilla de escalada para pájaros KATUMO está hecha de hierba marina natural, decorada con coloridos juguetes masticables de bloques de madera natural, virutas de madera, papel triturado, golosinas de mijo, cáscara de maíz, nogal y ratán, a tu pájaro seguramente le encantará masticar y jugar",
+      "ImagePath": "https://placehold.co/600x400?text=Juguetes+para+p%C3%A1jaros%2C+tapete+de+hierba+",
+      "Price": 9.99,
+      "Mark": "KATUMO",
+      "Stock": 10
+    },
+    {
+      "Id": 164,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 23,
+      "Title": " Centro de Actividades para Aves",
+      "Description": "Alivia el estrés y el aburrimiento: nuestros corralitos Bird Life proporcionan la salida perfecta para la curiosidad, el ejercicio y la socialización de tu mascota. Les encantará pasar algún tiempo fuera de la jaula, jugando con una variedad de juguetes y actividades. ¡El corralito grande para pájaros es ideal para cacatúas y conures!",
+      "ImagePath": "https://placehold.co/600x400?text=Centro+de+Actividades+para+Aves",
+      "Price": 17.93,
+      "Mark": "Penn Plax",
+      "Stock": 10
+    },
+    {
+      "Id": 165,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 23,
+      "Title": "activitoys hol-ee Roller",
+      "Description": "4 pulgadas de ancho: más grande que una pelota de tenis y juguete de pájaro de goma 100% natural, JUGUETE DE TRATAMIENTO: Llena con las golosinas favoritas de tu pájaro o cosas y deja que se alimenten, ESTIMULADOR: Intelectual y físicamente desafiante diseñado para involucrar a tu amigo emplumado, Mantiene a los pájaros entretenidos: ¡activa el cuerpo, la mente y el alma de tu pájaro!, Hecho para loros: apto para loros de todos los tamaños",
+      "ImagePath": "https://placehold.co/600x400?text=activitoys+hol-ee+Roller",
+      "Price": 4.53,
+      "Mark": "JW",
+      "Stock": 10
+    },
+    {
+      "Id": 166,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 23,
+      "Title": "Juguete de baloncesto para pájaros",
+      "Description": "Física y mentalmente estimulante, Cuenta con superficie espejada, Divertido y entretenido, Diseñado para el bienestar de un pájaro, Adecuado para periquitos, cacatúas y otras aves de tamaño similar",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+de+baloncesto+para+p%C3%A1jaros",
+      "Price": 7.75,
+      "Mark": "JW",
+      "Stock": 10
+    },
+    {
+      "Id": 167,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 24,
+      "Title": "Estante esquinero con plataforma de madera para pájaros",
+      "Description": "Material seguro: esta percha de esquina para pájaros está hecha de madera natural, no tóxica e inofensiva, las mascotas pueden masticar y morder de forma segura, moler los dientes de forma segura y recortar el pico y las uñas de forma natural, la superficie de la percha pulida suave, no dañará los pies de las mascotas",
+      "ImagePath": "https://placehold.co/600x400?text=Estante+esquinero+con+plataforma+de+made",
+      "Price": 13.99,
+      "Mark": "Litewoo",
+      "Stock": 10
+    },
+    {
+      "Id": 168,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 24,
+      "Title": "Spray de baño para pájaros de aloe vera para el cuidado diario y la salud de la piel",
+      "Description": "Dile adiós a la piel seca y a las plumas: esta fórmula segura y suave rocía sobre transparente, hace que las plumas sean suaves y se absorben rápidamente, dejando una capa protectora invisible sin dejar ningún residuo pegajoso",
+      "ImagePath": "https://placehold.co/600x400?text=Spray+de+ba%C3%B1o+para+p%C3%A1jaros+de+aloe+vera+",
+      "Price": 24.99,
+      "Mark": "UnRuffledRx",
+      "Stock": 10
+    },
+    {
+      "Id": 169,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 24,
+      "Title": "Pet Bird Parrot Parakeet Budgie Cockatiel Jaula Hamaca",
+      "Description": "El paquete incluye 5 piezas, Material: Madera, Tamaño perfecto para loros, periquitos, cacatúas y tortolitos, Un lugar ideal diseñado para que tus pequeños amigos jueguen y escalen, fácil de instalar en la jaula",
+      "ImagePath": "https://placehold.co/600x400?text=Pet+Bird+Parrot+Parakeet+Budgie+Cockatie",
+      "Price": 5.99,
+      "Mark": "Vktech",
+      "Stock": 10
+    },
+    {
+      "Id": 170,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 24,
+      "Title": "Cabaña nido de pájaro de coco con escalera para loros, periquitos, conures, cacatúa",
+      "Description": "Casa de descanso - Para animales pequeños, como pájaros y hámsters. Proporciona a las mascotas pequeñas un lugar de sueño de lujo. Les encanta tener un lugar protegido y privado donde puedan anidar y esconderse",
+      "ImagePath": "https://placehold.co/600x400?text=Caba%C3%B1a+nido+de+p%C3%A1jaro+de+coco+con+escale",
+      "Price": 12.99,
+      "Mark": "andwe",
+      "Stock": 10
+    },
+    {
+      "Id": 171,
+      "CategoryOneId": 3,
+      "CategoryTwoId": 24,
+      "Title": "Caja nido de pájaros, periquitos, caja nido de cría de pájaros, casa de nido de pájaros",
+      "Description": "Nuevo diseño: el diseño diferente de nuestra caja de anidación de pájaros de otras tiendas es el material de la caja de cría. Esta caja de periquito estereoscópica adopta una combinación de pino de alta calidad y acrílico transparente. No solo nos facilita ver el estado de los loros en la caja de cría de aves a través del lado acrílico, sino que también podemos observar y registrar el proceso de reproducción e incubación entre loros",
+      "ImagePath": "https://placehold.co/600x400?text=Caja+nido+de+p%C3%A1jaros%2C+periquitos%2C+caja+n",
+      "Price": 19.99,
+      "Mark": "CooShou",
+      "Stock": 10
+    },
+    {
+      "Id": 172,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 25,
+      "Title": "Comida acuática para ranas y renacuajos",
+      "Description": "Para todo tipo de ranas acuáticas y renacuajos, Micropellets de hundimiento, Comida de rana alta en proteínas, De Zoo Med - #1 en todo el mundo para productos de reptiles, Fabricado en Estados Unidos",
+      "ImagePath": "https://placehold.co/600x400?text=Comida+acu%C3%A1tica+para+ranas+y+renacuajos",
+      "Price": 2.29,
+      "Mark": "Zoo Med",
+      "Stock": 10
+    },
+    {
+      "Id": 173,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 25,
+      "Title": "Alimento de tortuga de fórmula acuática",
+      "Description": "Longitud del artículo: 3.85 pulgadas, Ancho del artículo: 3.85 pulgadas, Descripción del rango de edad: Adulto",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+de+tortuga+de+f%C3%B3rmula+acu%C3%A1tica",
+      "Price": 7.48,
+      "Mark": "Fluker's",
+      "Stock": 10
+    },
+    {
+      "Id": 174,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 25,
+      "Title": "Polen de abeja de 2 onzas para el reptil quisquilloso",
+      "Description": "Un polen para gobernarlos a todos. El polen de abeja puede ser beneficioso para muchas especies de reptiles, incluyendo, entre otros, tortugas y tortugas, lagartos y geckos. Los dragones barbudos, los geccos con cresta, los eslizones de lengua azul y los tegus son solo algunas especies de reptiles que parecen disfrutar del polen de abeja en su dieta",
+      "ImagePath": "https://placehold.co/600x400?text=Polen+de+abeja+de+2+onzas+para+el+reptil",
+      "Price": 14.47,
+      "Mark": "Gargeer",
+      "Stock": 10
+    },
+    {
+      "Id": 175,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 25,
+      "Title": "Alimento natural para tortugas acuáticas",
+      "Description": "La información a continuación es solo por paquete, No contiene conservantes, colores ni sabores artificiales, Contiene vitaminas y minerales añadidos para un crecimiento saludable, Fabricado en Estados Unidos",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+natural+para+tortugas+acu%C3%A1ticas",
+      "Price": 7.66,
+      "Mark": "",
+      "Stock": 10
+    },
+    {
+      "Id": 176,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 25,
+      "Title": "Chow de insectos para cucarachas, grillos y comederos sin OMG (2 libras)",
+      "Description": "¡16% de proteínas! Ideal para comederos de insectos, Granos de alta calidad, Mezcla especial de vitaminas y minerales, Bolsa resellable",
+      "ImagePath": "https://placehold.co/600x400?text=Chow+de+insectos+para+cucarachas%2C+grillo",
+      "Price": 13.95,
+      "Mark": "DUBIA KING",
+      "Stock": 10
+    },
+    {
+      "Id": 177,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 26,
+      "Title": "Tanque de terrario de vidrio, puerta de apertura frontal, vista completa, visualmente atractivo, mini reptiles o anfibios hábitat",
+      "Description": "Puerta de apertura frontal con pestillo de bloqueo para facilitar la limpieza o alimentar a tu reptil, Mini tanque de diseño compacto con cerraduras de puerta a prueba de fugas para evitar escapes, La ventilación superior de pantalla completa permite la penetración de UVB e infrarrojos",
+      "ImagePath": "https://placehold.co/600x400?text=Tanque+de+terrario+de+vidrio%2C+puerta+de+",
+      "Price": 56.75,
+      "Mark": "REPTIZOO",
+      "Stock": 10
+    },
+    {
+      "Id": 178,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 26,
+      "Title": "Terrario de vidrio para reptiles de 35 galones de apertura frontal",
+      "Description": "Visión sin obstáculos: el tanque de leopardo Gecko está hecho principalmente de vidrio, lo que permite una observación detallada y conveniente de cada momento adorable de tu mascota. Esto se aplica a cualquier tanque de reptiles, ya sea para una serpiente, un gecko o un terrario de rana arbórea",
+      "ImagePath": "https://placehold.co/600x400?text=Terrario+de+vidrio+para+reptiles+de+35+g",
+      "Price": 108.99,
+      "Mark": "BINANO",
+      "Stock": 10
+    },
+    {
+      "Id": 179,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 26,
+      "Title": "Kit de inicio de hábitat vertical tropical para reptiles y anfibios pequeños como geckos y ranas",
+      "Description": "Un hábitat perfecto para tu pequeño reptil arbóreo o anfibio, La puerta de apertura frontal permite un fácil acceso, La tapa con bisagras permite un acceso adicional y la pantalla con recubrimiento en polvo resiste el óxido, La parte inferior hermética de 5 pulgadas de profundidad permite características de agua únicas o el mini paludario perfecto",
+      "ImagePath": "https://placehold.co/600x400?text=Kit+de+inicio+de+h%C3%A1bitat+vertical+tropic",
+      "Price": 109.95,
+      "Mark": "Zilla",
+      "Stock": 10
+    },
+    {
+      "Id": 180,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 26,
+      "Title": "Mini terrario de reptiles, tanque de reptiles de 8 x 8 x 8 pulgadas con vista completa visualmente atractivo",
+      "Description": "Amplia aplicación: los terrarios de reptiles son herméticos al agua y pueden contener agua. Perfectamente utilizado como jaula de insectos, tanque de peces pequeño, recinto de tarántula, tanque de cangrejo ermitaño, recinto de araña saltadora, jaula de iguana, hábitat de tortuga, jaula de reptiles, jaula de insectos, tanque de dragón barbudo, caja de insectos, portador de reptiles, terrario de plástico, tanque de lagarto. , caracol terrario um, terrario de araña, jaula de cangrejo ermitaño, jaula de rana, jaula de serpiente, tanque de tortuga, tanque de rana, caja de criador de peces, contenedor de insectos",
+      "ImagePath": "https://placehold.co/600x400?text=Mini+terrario+de+reptiles%2C+tanque+de+rep",
+      "Price": 21.99,
+      "Mark": "Reptile Growth",
+      "Stock": 10
+    },
+    {
+      "Id": 181,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 26,
+      "Title": "EXO TERRA faunarium, Flat Home, L",
+      "Description": "Terrario de plástico transparente ideal para viviendas temporales o cuarentena, Ideal para transportar animales de terrario o alimentos vivos, Puerta de plástico transparente para un fácil acceso, Fácil de limpiar y desinfectar",
+      "ImagePath": "https://placehold.co/600x400?text=EXO+TERRA+faunarium%2C+Flat+Home%2C+L",
+      "Price": 19.99,
+      "Mark": "Exo Terra",
+      "Stock": 10
+    },
+    {
+      "Id": 182,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 27,
+      "Title": "Tratamiento de baño de reptiles para lagartos y serpientes de mascotas",
+      "Description": "Ayuda a tu cobertizo de reptiles con un baño penetrante de reptiles. Un simple remojo de 20 minutos puede ayudar a que la piel vieja se deslice con facilidad, Promueve la emergencia de una piel sana apoyando la eliminación de la piel vieja y añadiendo un brillo saludable a la nueva piel",
+      "ImagePath": "https://placehold.co/600x400?text=Tratamiento+de+ba%C3%B1o+de+reptiles+para+lag",
+      "Price": 6.99,
+      "Mark": "Zilla",
+      "Stock": 10
+    },
+    {
+      "Id": 183,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 27,
+      "Title": "Removedor de residuos de reptiles totalmente natural",
+      "Description": "Longitud del artículo: 0.02 pulgadas, Altura del artículo: 0.02 pulgadas, Ancho del artículo: 0.02 pulgadas, Componentes incluidos: Fluker Labs Sfk43000 Eco Clean Removedor de residuos de reptiles totalmente naturales, 8 onzas",
+      "ImagePath": "https://placehold.co/600x400?text=Removedor+de+residuos+de+reptiles+totalm",
+      "Price": 7.29,
+      "Mark": "Fluker's",
+      "Stock": 10
+    },
+    {
+      "Id": 184,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 27,
+      "Title": "Rot Guard Mejora el sistema inmunológico para reptiles",
+      "Description": "Productos impulsados por la calidad y el rendimiento para tu mascota, Probado para seguridad y salud, Proporciona una mejor calidad de vida para tu mascota con Nature Zone",
+      "ImagePath": "https://placehold.co/600x400?text=Rot+Guard+Mejora+el+sistema+inmunol%C3%B3gico",
+      "Price": 7.5,
+      "Mark": "Zone",
+      "Stock": 10
+    },
+    {
+      "Id": 185,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 27,
+      "Title": " Pinzas de alimentación de reptiles, herramienta de alimentación de reptiles, cuchara para excrementos de reptiles con rejillas de ventilación para tortuga",
+      "Description": "Función de protección: el receptor de abrazadera de alimentación de reptiles puede evitar ser mordido por reptiles y mantener las manos, Multiuso: alimentación de reptiles y herramienta para grillos, cucarachas, langostas, dragones barbudos, lagartos, geckos, tortugas pequeñas y otros reptiles e insectos",
+      "ImagePath": "https://placehold.co/600x400?text=Pinzas+de+alimentaci%C3%B3n+de+reptiles%2C+herr",
+      "Price": 8.09,
+      "Mark": "Zerodis",
+      "Stock": 10
+    },
+    {
+      "Id": 186,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 27,
+      "Title": "Filtro de tortuga para acuario",
+      "Description": "Nivel de agua más bajo: 0.6 pulgadas, lo que lo hace perfecto para tanques anfibios como tortugas y ranas, Mini y eficiente: este filtro está equipado con una fuerte bomba de agua de succión y un filtro de esponja, capaz de circular rápidamente el agua filtrada y puede aumentar rápidamente la cantidad de oxígeno, Fácil de usar: el diseño de la ventosa inferior es fácil de instalar. Adecuado para agua dulce y agua salada",
+      "ImagePath": "https://placehold.co/600x400?text=Filtro+de+tortuga+para+acuario",
+      "Price": 11.99,
+      "Mark": "UPETTOOLS",
+      "Stock": 10
+    },
+    {
+      "Id": 187,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 28,
+      "Title": "Repisa escalonada de escondite de reptiles, accesorios de tanque de escondite de cueva, ideal para reptiles, anfibios",
+      "Description": "Vista única: plataforma de aprovechamiento de reptiles que simula perfectamente un entorno natural de cueva. Este escondite proporciona a tu leopardo gecko la zona segura perfecta donde puede alejarse de miradas indiscretas. Agregar más diversión a sus vidas les da seguridad y un lugar para huir del estrés",
+      "ImagePath": "https://placehold.co/600x400?text=Repisa+escalonada+de+escondite+de+reptil",
+      "Price": 11.9,
+      "Mark": "relaqcc",
+      "Stock": 10
+    },
+    {
+      "Id": 188,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 28,
+      "Title": "Terrario de reptiles, árbol forestal con hojas de plantas para decoración de hábitat de anfibios",
+      "Description": "Muestra el paisaje natural del hábitat del terrario En forma de producto, nuestra planta de reptil recomendada posee hojas y ramas muy realistas, que pueden crear una vida natural alrededor de tu encantador anfibio reptil",
+      "ImagePath": "https://placehold.co/600x400?text=Terrario+de+reptiles%2C+%C3%A1rbol+forestal+con",
+      "Price": 19.99,
+      "Mark": "AQUA KT",
+      "Stock": 10
+    },
+    {
+      "Id": 189,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 28,
+      "Title": "Plataforma para tomar tortugas, muelle de tortuga, acuario, paisaje, rampa de escalada decorativa",
+      "Description": "Escalera de ejercicios: diseño de rampa de escalón, rampa suave, las mascotas pueden subir y bajar, esto puede aumentar su ejercicio, hacerlos más saludables. Las tapas planas proporcionan una plataforma para que las mascotas tomen el sol, para que los anfibios y reptiles jueguen y disfruten del sol",
+      "ImagePath": "https://placehold.co/600x400?text=Plataforma+para+tomar+tortugas%2C+muelle+d",
+      "Price": 14.79,
+      "Mark": "Kathson",
+      "Stock": 10
+    },
+    {
+      "Id": 190,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 28,
+      "Title": "Plato de comida y agua para tronco de árbol para anfibios, reptiles y otros pequeños bichos",
+      "Description": "Material: este plato de agua premium está hecho de resina no tóxica de primera calidad. También es duradero y no se vuelve fácilmente. El plato es muy fácil de limpiar",
+      "ImagePath": "https://placehold.co/600x400?text=Plato+de+comida+y+agua+para+tronco+de+%C3%A1r",
+      "Price": 12.95,
+      "Mark": "Generic",
+      "Stock": 10
+    },
+    {
+      "Id": 191,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 28,
+      "Title": "Juguete oscilante de neumático de lagarto, juguete de escalada de reptiles",
+      "Description": "Entretenimiento dinámico para reptiles: Presentamos el juguete oscilante de neumático de lagarto, una adición divertida para reptiles pequeños a medianos. Compuesto por tres pequeños neumáticos de goma con un diámetro de 3.7 pulgadas, conectados por un cordel, este juguete proporciona un entretenimiento atractivo dentro de su hábitat",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+oscilante+de+neum%C3%A1tico+de+lagart",
+      "Price": 16.99,
+      "Mark": "Neeenn",
+      "Stock": 10
+    },
+    {
+      "Id": 192,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 29,
+      "Title": "Sustrato para dragones barbudos y otros lagartos",
+      "Description": "El sustrato definitivo para dragones barbudos, De origen ético de Australia Central, Parte de su entorno natural en la naturaleza, Promover el enriquecimiento ambiental para estimular comportamientos naturales, Retendrá el calor durante más tiempo debido a su composición geológica",
+      "ImagePath": "https://placehold.co/600x400?text=Sustrato+para+dragones+barbudos+y+otros+",
+      "Price": 17.75,
+      "Mark": "JurassicNatural",
+      "Stock": 10
+    },
+    {
+      "Id": 193,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 29,
+      "Title": "Termómetro de tanque de reptiles, accesorios para tanque de reptiles",
+      "Description": "Termómetro/higrómetro de reptil de alta precisión. Para garantizar la estabilidad y precisión, utilizamos un sensor avanzado de temperatura y humedad; te mostrará la temperatura y la humedad precisas dentro del tanque de reptiles 24/7 para garantizar que puedas vigilar el entorno de vida del lagarto primero, es muy excelente accesorios para tanques",
+      "ImagePath": "https://placehold.co/600x400?text=Term%C3%B3metro+de+tanque+de+reptiles%2C+acceso",
+      "Price": 7.99,
+      "Mark": "Aggforbl",
+      "Stock": 10
+    },
+    {
+      "Id": 194,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 29,
+      "Title": "2 pinzas largas para acuario",
+      "Description": "Material de alta calidad: las pinzas largas Fri4Free están hechas de acero inoxidable, lo que las hace resistentes, resistentes a la corrosión y diseñadas para durar. Estas pinzas de acuario no se rompen, corroen o decoloran fácilmente, y se pueden limpiar fácilmente. Son compatibles con peceras de agua salada y de agua dulce. Recomendamos enjuagar las pinzas de alimentación con agua dulce y secarlas después de usarlas en un tanque de agua salada.",
+      "ImagePath": "https://placehold.co/600x400?text=2+pinzas+largas+para+acuario",
+      "Price": 4.99,
+      "Mark": "Fri4Free",
+      "Stock": 10
+    },
+    {
+      "Id": 195,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 29,
+      "Title": "Plato de agua de reptiles, cuenco de resina para reptiles",
+      "Description": "Alta calidad: nuestras bandejas para reptiles están hechas de resina de alta calidad. Tienen una textura rocosa natural en la superficie sin rebabas, proporcionando un ambiente seguro para que tu mascota alimente y haga ejercicio",
+      "ImagePath": "https://placehold.co/600x400?text=Plato+de+agua+de+reptiles%2C+cuenco+de+res",
+      "Price": 11.85,
+      "Mark": "YOLUFER",
+      "Stock": 10
+    },
+    {
+      "Id": 196,
+      "CategoryOneId": 4,
+      "CategoryTwoId": 29,
+      "Title": "Lámpara de calor para reptiles, luz de reptil UVA UVB con temporizador automático",
+      "Description": "Excelente fuente de calor y luz: el diseño de doble cabeza de la luz de sol HOSUN expande eficazmente el área de calefacción. Está equipado con 2 bombillas de lámpara de calor de alta calidad que emiten luz de espectro completo como la luz solar natural, proporcionando más UVA y UVB, lo que es crucial para la salud de tus queridos reptiles, ayudándoles a aumentar el apetito y la absorción de calcio mientras se mantienen felices. Puedes configurarlo para que solo tenga una luz encendida, lo que es realmente útil",
+      "ImagePath": "https://placehold.co/600x400?text=L%C3%A1mpara+de+calor+para+reptiles%2C+luz+de+r",
+      "Price": 29.99,
+      "Mark": "HOSUN",
+      "Stock": 10
+    },
+    {
+      "Id": 197,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 30,
+      "Title": "Alimento gourmet para mascotas, exclusivo heno, flores y mezcla de hierbas, para conejos, cobayas, animales pequeños",
+      "Description": "Hemos cargado varios tipos de heno con hierbas y flores de olor dulce para que sea un regalo absolutamente irresistible (así como una gran nutrición variada), Gran opción para añadir variedad a la dieta y animar el apetito de heno de tu mascota",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+gourmet+para+mascotas%2C+exclusiv",
+      "Price": 34.99,
+      "Mark": "Small Pet Select",
+      "Stock": 10
+    },
+    {
+      "Id": 198,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 30,
+      "Title": "Supreme Tiny Friends Farm Reggie Rat and Mimi Mouse",
+      "Description": "Descripción del rango de edad: Todas las etapas de la vida, Mezcla sabrosa de 2 libras",
+      "ImagePath": "https://placehold.co/600x400?text=Supreme+Tiny+Friends+Farm+Reggie+Rat+and",
+      "Price": 6.56,
+      "Mark": "Supreme Petfoods",
+      "Stock": 10
+    },
+    {
+      "Id": 199,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 30,
+      "Title": " Alimento para pastel de semillas para ardillas silvestres, ardillas, conejos y otros animales salvajes",
+      "Description": "Kaytee Los pasteles de semillas de aves silvestres ofrecen los ingredientes de primera calidad que a las aves les encanta comer en un pastel fácil, cómodo y listo para alimentar",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+para+pastel+de+semillas+para+ar",
+      "Price": 9.85,
+      "Mark": "Kaytee",
+      "Stock": 10
+    },
+    {
+      "Id": 200,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 30,
+      "Title": "Alimento diario prémium para hurones, 8 libras",
+      "Description": "Fabricado con auténtica proteína de pollo y huevo. Formulado para ser el alimento principal de tu hurón, SISTEMA DIGESTIVO ÚNICO. Los hurones tienen un sistema digestivo único que requiere la cantidad adecuada de proteínas y grasa animal para mantenerse al día con sus estilos de vida activos.",
+      "ImagePath": "https://placehold.co/600x400?text=Alimento+diario+pr%C3%A9mium+para+hurones%2C+8+",
+      "Price": 35.99,
+      "Mark": "ZuPreem",
+      "Stock": 10
+    },
+    {
+      "Id": 201,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 30,
+      "Title": "Grandpa's Best Heno de alfalfa, 5 libras",
+      "Description": "Práctico tamaño compacto de aproximadamente 6 x 6 x 12 pulgadas, Este heno satisface las muchas necesidades de tu mascota, desde el cuidado dental hasta el tiempo de juego, y es libre de aditivos y conservantes, Fácil de alimentar para una comida conveniente!",
+      "ImagePath": "https://placehold.co/600x400?text=Grandpa%27s+Best+Heno+de+alfalfa%2C+5+libras",
+      "Price": 17.99,
+      "Mark": "Grandpa's Best",
+      "Stock": 10
+    },
+    {
+      "Id": 202,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 31,
+      "Title": "Arnés de correa con collar de animal pequeño ",
+      "Description": "Material: este arnés de chaleco de conejillo de indias está hecho de mezclilla, que es ligero y transpirable, duradero y agradable para tu pequeña mascota",
+      "ImagePath": "https://placehold.co/600x400?text=Arn%C3%A9s+de+correa+con+collar+de+animal+peq",
+      "Price": 7.99,
+      "Mark": "Litewoo",
+      "Stock": 10
+    },
+    {
+      "Id": 203,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 31,
+      "Title": "Conjunto de arnés y correa de conejo",
+      "Description": "Viene con una correa, lo que te ayuda a controlar fácilmente a tu conejo, Sus 2 hebillas seguras te permiten quitarlo con facilidad, Se puede utilizar como arnés de paseo para mascotas pequeñas o trajes encantadores para tus lindos amigos peludos",
+      "ImagePath": "https://placehold.co/600x400?text=Conjunto+de+arn%C3%A9s+y+correa+de+conejo",
+      "Price": 9.5,
+      "Mark": "Wontee",
+      "Stock": 10
+    },
+    {
+      "Id": 204,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 31,
+      "Title": "Collar de piel de gamuza con diamantes de imitación",
+      "Description": "Fabricado con gamuza importada de alta calidad, flores hechas a mano, diamantes de imitación y perlas, El collar de diseño para mascotas presenta un diseño de moño con una gran flor de margarita, perfecto para disfraces de fiesta, bodas y regalos festivos",
+      "ImagePath": "https://placehold.co/600x400?text=Collar+de+piel+de+gamuza+con+diamantes+d",
+      "Price": 5.99,
+      "Mark": "PETFAVORITES",
+      "Stock": 10
+    },
+    {
+      "Id": 205,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 31,
+      "Title": "Arnés de conejo con correa ajustable de nailon suave",
+      "Description": "Material de nailon: arnés de chaleco de conejo hecho de tela de nailon duradera e ideal tanto para los días de verano como durante todo el año debido a la característica transpirable",
+      "ImagePath": "https://placehold.co/600x400?text=Arn%C3%A9s+de+conejo+con+correa+ajustable+de+",
+      "Price": 9.99,
+      "Mark": "hypeety",
+      "Stock": 10
+    },
+    {
+      "Id": 206,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 31,
+      "Title": "Juego de 3 arnés de ardilla y correa, correa de cuerda de tracción ajustable",
+      "Description": "Juego de 3 tamaños: nuestro juego de arnés de ardilla y correa viene con arnés de cuero pequeño, mediano y grande de 3 tamaños, ideal para ardillas de todos los tamaños, desde jóvenes hasta adultos. Viene con una correa de aproximadamente 5.6 ft / 67 pulgadas de largo, la longitud de la cuerda se puede ajustar libremente, lo que te permite mantener una distancia ideal de tu mascota",
+      "ImagePath": "https://placehold.co/600x400?text=Juego+de+3+arn%C3%A9s+de+ardilla+y+correa%2C+co",
+      "Price": 8.99,
+      "Mark": "HAICHEN TEC",
+      "Stock": 10
+    },
+    {
+      "Id": 207,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 32,
+      "Title": "Rueda silenciosa de madera para hámster",
+      "Description": "Este es de tamaño M, aproximadamente 8.2 x 4.8 x 8.1 pulgadas (8.3 x 4.8 x 9.3 in). Muy recomendable para hámsters enanos, jerbos pequeños, ratones y otras mascotas de tamaño similar, se adapta a ellos cuando corren sin doblar la espalda",
+      "ImagePath": "https://placehold.co/600x400?text=Rueda+silenciosa+de+madera+para+h%C3%A1mster",
+      "Price": 19.99,
+      "Mark": "antiai",
+      "Stock": 10
+    },
+    {
+      "Id": 208,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 32,
+      "Title": "Rueda de hámster, rueda silenciosa, ruedas de ejercicio de hámster súper silenciosas",
+      "Description": "Rueda de martillo súper silenciosa: rueda silenciosa para hámster diseñada con rodamientos de bolas, aporta a tu pequeño hámster una felicidad sin fin. rueda de rata también te trae una noche tranquila incluso",
+      "ImagePath": "https://placehold.co/600x400?text=Rueda+de+h%C3%A1mster%2C+rueda+silenciosa%2C+rued",
+      "Price": 13.99,
+      "Mark": "TeiLishor",
+      "Stock": 10
+    },
+    {
+      "Id": 209,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 32,
+      "Title": "Juguete de rueda de hámster/jerbo de malla de alambre para animales pequeños",
+      "Description": "El diseño de juguete de hámster/rueda de jerbo de malla de alambre evita que los pies y las colas se atrapen mientras las mascotas corren, Ideal para proporcionar ejercicio dentro o fuera de la jaula, La rueda también se puede colgar de forma segura en los lados de la jaula de malla",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+de+rueda+de+h%C3%A1mster%2Fjerbo+de+mal",
+      "Price": 17.68,
+      "Mark": "Prevue Pet Products",
+      "Stock": 10
+    },
+    {
+      "Id": 210,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 33,
+      "Title": "Cama de casa de hámster para jerbos, ratones, jaula de animales pequeños",
+      "Description": "Coconut Hut - un espacio seguro y acogedor para tu pequeña mascota, fácil acceso a dentro o fuera con la entrada, Cama acogedora: añade materiales de cama para hacer un lugar de descanso cómodo para tus pequeños amigos. Más tranquilo y menos luces diurnas",
+      "ImagePath": "https://placehold.co/600x400?text=Cama+de+casa+de+h%C3%A1mster+para+jerbos%2C+rat",
+      "Price": 12.99,
+      "Mark": "andwe",
+      "Stock": 10
+    },
+    {
+      "Id": 211,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 33,
+      "Title": "Casa de túnel de conejillo de indias",
+      "Description": "Esta es una pequeña casa de animales que simula un túnel, que no solo proporciona a su pequeño animal un hábitat cómodo nido, sino que también satisface su instinto para correr de un lado a otro.Y hay cortinas en ambos extremos de la abertura, lo que les ayuda a relajarse en el túnel y sentirse más seguros",
+      "ImagePath": "https://placehold.co/600x400?text=Casa+de+t%C3%BAnel+de+conejillo+de+indias",
+      "Price": 15.98,
+      "Mark": "ORZECHKO",
+      "Stock": 10
+    },
+    {
+      "Id": 212,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 33,
+      "Title": "Ferplast Jaula para hámster, negra",
+      "Description": "Jaula para hámster totalmente equipada y de diseño modular; Favola incluye un plato de comida, botella de agua, esconderse, rueda de ejercicio de 5.5 pulgadas y un puerto de conexión para que los tubos de juego se conecten a otras jaulas de hámster",
+      "ImagePath": "https://placehold.co/600x400?text=Ferplast+Jaula+para+h%C3%A1mster%2C+negra",
+      "Price": 40.11,
+      "Mark": "Ferplast",
+      "Stock": 10
+    },
+    {
+      "Id": 213,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 33,
+      "Title": "Midwest Critter Nación con soporte, Gris",
+      "Description": "Critter Nation Double Unit habitat/cage (162) incluye dos sartenes, dos estantes ajustables, tres rampas de plástico con tapas y soporte fácil de maniobrable, con 4 ruedas de bloqueo, Las puertas dobles de ancho completo en la jaula de animales pequeños Critter Nation y el estante extraíble proporcionan la máxima accesibilidad para una fácil limpieza y alimentación",
+      "ImagePath": "https://placehold.co/600x400?text=Midwest+Critter+Naci%C3%B3n+con+soporte%2C+Gris",
+      "Price": 12.99,
+      "Mark": "MidWest Homes for Pets",
+      "Stock": 10
+    },
+    {
+      "Id": 214,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 33,
+      "Title": "Corralito de animales pequeños",
+      "Description": "La tela inferior del corralito para mascotas de SKYKA utiliza tela impermeable Oxford 210D, que es más impermeable que otros. La orina de tu mascota no penetra en el suelo. Pequeño parque de animales con superficie superior y malla más fuerte para evitar que se rayen y luego se escapen",
+      "ImagePath": "https://placehold.co/600x400?text=Corralito+de+animales+peque%C3%B1os",
+      "Price": 25.99,
+      "Mark": "SKYKA",
+      "Stock": 10
+    },
+    {
+      "Id": 215,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 34,
+      "Title": "Kit de aseo rosa para animales pequeños",
+      "Description": "Kit de 8 piezas de aseo para mascotas: el juego contiene cortaúñas y lima para mascotas, 2 peines para pulgas, cepillo de baño para champú para mascotas, cepillo para pelar mascotas, guante de masaje de baño, peine de limpieza pequeño",
+      "ImagePath": "https://placehold.co/600x400?text=Kit+de+aseo+rosa+para+animales+peque%C3%B1os",
+      "Price": 9.99,
+      "Mark": "VCZONW",
+      "Stock": 10
+    },
+    {
+      "Id": 216,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 34,
+      "Title": "Toallitas para fregar jaula de animales pequeños",
+      "Description": "Toallitas para limpiar jaulas de animales pequeños: limpia la suciedad de las jaulas y descompone los olores al contacto, FÓRMULA ENZIMÁTICA: Toallitas duraderas que resisten la suciedad dura de la jaula, TECNOLOGÍA ODORCAPTURA 360: Destruye los olores de las jaulas",
+      "ImagePath": "https://placehold.co/600x400?text=Toallitas+para+fregar+jaula+de+animales+",
+      "Price": 6.18,
+      "Mark": "Nature's Miracle",
+      "Stock": 10
+    },
+    {
+      "Id": 217,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 34,
+      "Title": "Una nueva generación de desodorante de ropa de cama de animales",
+      "Description": "Fórmula de liberación lenta: nuestro desodorante de ropa de cama utiliza una tecnología única de liberación lenta, lo que permite una liberación continua de agentes desodorantes con el tiempo, asegurando una frescura duradera que dura hasta 5 semanas",
+      "ImagePath": "https://placehold.co/600x400?text=Una+nueva+generaci%C3%B3n+de+desodorante+de+r",
+      "Price": 11.95,
+      "Mark": "LITTLE SAVER",
+      "Stock": 10
+    },
+    {
+      "Id": 218,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 34,
+      "Title": "Cortaúñas para animales pequeños con luces LED para evitar cortes excesivos y cuchillas afiladas",
+      "Description": "Luz LED brillante: la luz LED ultra brillante incorporada ilumina claramente la línea de sangre de las uñas de la mascota, le muestra exactamente dónde hacer el corte para evitar daños al recorte. Este diseño puede reducir en gran medida el riesgo de sangrado debido al recorte excesivo. Puedes superar tu miedo a recortar las uñas con nuestros cómodos cortaúñas",
+      "ImagePath": "https://placehold.co/600x400?text=Corta%C3%BA%C3%B1as+para+animales+peque%C3%B1os+con+luc",
+      "Price": 9.99,
+      "Mark": "GuLuPets",
+      "Stock": 10
+    },
+    {
+      "Id": 219,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 34,
+      "Title": "Limpiador de superficies y jaulas para animales pequeños",
+      "Description": "Fórmula de limpieza bio-enzimática: penetra para ayudar a descomponer y destruir las manchas y olores difíciles, Limpia y desodoriza jaulas: Formulado para aves y animales pequeños, Fórmula sin aroma: no dejará olores fuertes",
+      "ImagePath": "https://placehold.co/600x400?text=Limpiador+de+superficies+y+jaulas+para+a",
+      "Price": 17.47,
+      "Mark": "Nature's Miracle",
+      "Stock": 10
+    },
+    {
+      "Id": 220,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 35,
+      "Title": "Botella de agua para ratas, conejillos de indias, chinchillas y otros animales pequeños",
+      "Description": "Botella de agua hecha de vidrio reciclable ecológico que es seguro y muy duradero, Incluye un accesorio de resorte fácil de instalar y seguro y colgador, Cuenta con un doble rodamiento de bolas, tubo resistente al goteo, Equipado con un indicador de nivel de agua",
+      "ImagePath": "https://placehold.co/600x400?text=Botella+de+agua+para+ratas%2C+conejillos+d",
+      "Price": 9.49,
+      "Mark": "Living World",
+      "Stock": 10
+    },
+    {
+      "Id": 221,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 35,
+      "Title": "Casa Cama de hámster conejillo de indias Ardilla Erizo, para animales pequeños",
+      "Description": "Tabla de tallas: S: 7.8x9.8 pulgadas; M: 9.8x11.8 pulgadas, L: 11.8x13.7 pulgadas, Un lugar para tu mascota lindo suave, esta alfombra será un hogar cálido, Hecho de suave y cálido forro polar, es de peso ligero y cómodo",
+      "ImagePath": "https://placehold.co/600x400?text=Casa+Cama+de+h%C3%A1mster+conejillo+de+indias",
+      "Price": 6.9,
+      "Mark": "FLAdorepet",
+      "Stock": 10
+    },
+    {
+      "Id": 222,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 35,
+      "Title": "Paquete de 10 juguetes de actividad de madera de manzana",
+      "Description": "Paquete de 10: incluye rodillo de campana pequeña, mancuerna, monociclo, bola de hierba de agua, bola de ratán, bloque molar con cuerda, rama de manzana, cuerda molar, bola de pino, anillo de programación",
+      "ImagePath": "https://placehold.co/600x400?text=Paquete+de+10+juguetes+de+actividad+de+m",
+      "Price": 14.99,
+      "Mark": "SNOMEL",
+      "Stock": 10
+    },
+    {
+      "Id": 223,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 35,
+      "Title": "Juguetes para rascar conejos, almohadilla de cartón rascador de sisal y bola rascadora",
+      "Description": "Material duradero: el juguete rascador de conejo Niwaes está hecho de madera de calidad y materiales de sisal, que está firmemente enrollado y no es fácil de separar. También está configurado con dos postes de arañazos de conejo para que pueda jugar con la pelota mientras también rectifica sus garras. Promueve una experiencia de juego saludable y duradera",
+      "ImagePath": "https://placehold.co/600x400?text=Juguetes+para+rascar+conejos%2C+almohadill",
+      "Price": 24.69,
+      "Mark": "Niwaes",
+      "Stock": 10
+    },
+    {
+      "Id": 224,
+      "CategoryOneId": 5,
+      "CategoryTwoId": 35,
+      "Title": "Juguete de puente colgante de hámster, escalera de madera de escalada larga para hámsters, ratones",
+      "Description": "Escalera de madera larga para hámster: hecha de palos de madera dura, ensartada y formada por 2 cables de metal flexibles. Tamaño: 28.5 pulgadas de largo x 2.8 pulgadas de ancho. Es flexible y toma formas fácilmente como desees, como una escalera de escalada, ropa de cama o divisor de área de arena, juguetes de puente colgante",
+      "ImagePath": "https://placehold.co/600x400?text=Juguete+de+puente+colgante+de+h%C3%A1mster%2C+e",
+      "Price": 11.99,
+      "Mark": "Niteangel",
+      "Stock": 10
+    }
+  ]
+}

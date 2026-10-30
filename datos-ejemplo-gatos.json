@@ -1,0 +1,69 @@
+{
+  "CategoryOne": {
+    "1": { "Id": 1, "Name": "Gatos" }
+  },
+  "CategoryTwo": {
+    "1": { "Id": 1, "Name": "Alimento", "CategoryOneId": 1 },
+    "2": { "Id": 2, "Name": "Arena y sanitarios", "CategoryOneId": 1 },
+    "3": { "Id": 3, "Name": "Juguetes", "CategoryOneId": 1 },
+    "4": { "Id": 4, "Name": "Accesorios", "CategoryOneId": 1 }
+  },
+  "Products": {
+    "1": {
+      "Id": 1, "CategoryOneId": 1, "CategoryTwoId": 1,
+      "Title": "Croquetas gato adulto salmón 1.5 kg",
+      "Description": "Croquetas completas para gatos adultos, con salmón y vitaminas.",
+      "Price": 18.5, "Stock": 25, "Mark": "MichiNutri", "BestProduct": true,
+      "ImagePath": "https://placehold.co/600x400?text=Croquetas"
+    },
+    "2": {
+      "Id": 2, "CategoryOneId": 1, "CategoryTwoId": 1,
+      "Title": "Snacks de pollo para gato 60 g",
+      "Description": "Premios bajos en grasa, ideales para entrenar.",
+      "Price": 3.2, "Stock": 40, "Mark": "MichiNutri", "BestProduct": false,
+      "ImagePath": "https://placehold.co/600x400?text=Snacks"
+    },
+    "3": {
+      "Id": 3, "CategoryOneId": 1, "CategoryTwoId": 1,
+      "Title": "Comida húmeda para gatito x6",
+      "Description": "Pack de 6 sobres sabor pollo para gatitos en crecimiento.",
+      "Price": 9.9, "Stock": 15, "Mark": "FelinoFeliz", "BestProduct": true,
+      "ImagePath": "https://placehold.co/600x400?text=Humeda"
+    },
+    "4": {
+      "Id": 4, "CategoryOneId": 1, "CategoryTwoId": 2,
+      "Title": "Arena aglomerante lavanda 5 kg",
+      "Description": "Arena de bentonita de alta absorción con aroma a lavanda.",
+      "Price": 12.0, "Stock": 20, "Mark": "ArenaPlus", "BestProduct": false,
+      "ImagePath": "https://placehold.co/600x400?text=Arena"
+    },
+    "5": {
+      "Id": 5, "CategoryOneId": 1, "CategoryTwoId": 2,
+      "Title": "Caja sanitaria con borde bajo",
+      "Description": "Caja con borde bajo y tapa opcional, fácil acceso para gatos mayores.",
+      "Price": 22.5, "Stock": 8, "Mark": "ArenaPlus", "BestProduct": false,
+      "ImagePath": "https://placehold.co/600x400?text=Caja"
+    },
+    "6": {
+      "Id": 6, "CategoryOneId": 1, "CategoryTwoId": 3,
+      "Title": "Ratón de peluche con catnip",
+      "Description": "Ratón de peluche relleno de catnip natural.",
+      "Price": 2.5, "Stock": 50, "Mark": "JugueFel", "BestProduct": false,
+      "ImagePath": "https://placehold.co/600x400?text=Raton"
+    },
+    "7": {
+      "Id": 7, "CategoryOneId": 1, "CategoryTwoId": 3,
+      "Title": "Varita con plumas y campanita",
+      "Description": "Varita de juego con plumas y cascabel. Producto sin stock para probar el filtro.",
+      "Price": 4.8, "Stock": 0, "Mark": "JugueFel", "BestProduct": false,
+      "ImagePath": "https://placehold.co/600x400?text=Varita"
+    },
+    "8": {
+      "Id": 8, "CategoryOneId": 1, "CategoryTwoId": 4,
+      "Title": "Cama acolchada para gato 40 cm",
+      "Description": "Cama suave lavable con base antideslizante.",
+      "Price": 27.0, "Stock": 6, "Mark": "CasaMichi", "BestProduct": true,
+      "ImagePath": "https://placehold.co/600x400?text=Cama"
+    }
+  }
+}
